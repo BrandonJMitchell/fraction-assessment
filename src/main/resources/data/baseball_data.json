@@ -1,0 +1,4808 @@
+[
+  {
+    "Rank": "1",
+    "Player": "Ichiro Suzuki",
+    "AgeThatYear": "30",
+    "Hits": 262,
+    "Year": 2004,
+    "Bats": "L",
+    "id": 1
+  },
+  {
+    "Rank": "2",
+    "Player": "George Sisler",
+    "AgeThatYear": "27",
+    "Hits": 257,
+    "Year": 1920,
+    "Bats": "L",
+    "id": 2
+  },
+  {
+    "Rank": "3",
+    "Player": "Lefty O'Doul",
+    "AgeThatYear": "32",
+    "Hits": 254,
+    "Year": 1929,
+    "Bats": "L",
+    "id": 3
+  },
+  {
+    "Rank": "",
+    "Player": "Bill Terry",
+    "AgeThatYear": "31",
+    "Hits": 254,
+    "Year": 1930,
+    "Bats": "L",
+    "id": 4
+  },
+  {
+    "Rank": "5",
+    "Player": "Al Simmons",
+    "AgeThatYear": "23",
+    "Hits": 253,
+    "Year": 1925,
+    "Bats": "R",
+    "id": 5
+  },
+  {
+    "Rank": "6",
+    "Player": "Rogers Hornsby",
+    "AgeThatYear": "26",
+    "Hits": 250,
+    "Year": 1922,
+    "Bats": "R",
+    "id": 6
+  },
+  {
+    "Rank": "",
+    "Player": "Chuck Klein",
+    "AgeThatYear": "25",
+    "Hits": 250,
+    "Year": 1930,
+    "Bats": "L",
+    "id": 7
+  },
+  {
+    "Rank": "8",
+    "Player": "Ty Cobb",
+    "AgeThatYear": "24",
+    "Hits": 248,
+    "Year": 1911,
+    "Bats": "L",
+    "id": 8
+  },
+  {
+    "Rank": "9",
+    "Player": "George Sisler",
+    "AgeThatYear": "29",
+    "Hits": 246,
+    "Year": 1922,
+    "Bats": "L",
+    "id": 9
+  },
+  {
+    "Rank": "10",
+    "Player": "Ichiro Suzuki",
+    "AgeThatYear": "27",
+    "Hits": 242,
+    "Year": 2001,
+    "Bats": "L",
+    "id": 10
+  },
+  {
+    "Rank": "11",
+    "Player": "Babe Herman",
+    "AgeThatYear": "27",
+    "Hits": 241,
+    "Year": 1930,
+    "Bats": "L",
+    "id": 11
+  },
+  {
+    "Rank": "",
+    "Player": "Heinie Manush",
+    "AgeThatYear": "26",
+    "Hits": 241,
+    "Year": 1928,
+    "Bats": "L",
+    "id": 12
+  },
+  {
+    "Rank": "13",
+    "Player": "Wade Boggs",
+    "AgeThatYear": "27",
+    "Hits": 240,
+    "Year": 1985,
+    "Bats": "L",
+    "id": 13
+  },
+  {
+    "Rank": "",
+    "Player": "Jesse Burkett",
+    "AgeThatYear": "27",
+    "Hits": 240,
+    "Year": 1896,
+    "Bats": "L",
+    "id": 14
+  },
+  {
+    "Rank": "",
+    "Player": "Darin Erstad",
+    "AgeThatYear": "26",
+    "Hits": 240,
+    "Year": 2000,
+    "Bats": "L",
+    "id": 15
+  },
+  {
+    "Rank": "16",
+    "Player": "Rod Carew",
+    "AgeThatYear": "31",
+    "Hits": 239,
+    "Year": 1977,
+    "Bats": "L",
+    "id": 16
+  },
+  {
+    "Rank": "",
+    "Player": "Willie Keeler",
+    "AgeThatYear": "25",
+    "Hits": 239,
+    "Year": 1897,
+    "Bats": "L",
+    "id": 17
+  },
+  {
+    "Rank": "18",
+    "Player": "Ed Delahanty",
+    "AgeThatYear": "31",
+    "Hits": 238,
+    "Year": 1899,
+    "Bats": "R",
+    "id": 18
+  },
+  {
+    "Rank": "",
+    "Player": "Don Mattingly",
+    "AgeThatYear": "25",
+    "Hits": 238,
+    "Year": 1986,
+    "Bats": "L",
+    "id": 19
+  },
+  {
+    "Rank": "",
+    "Player": "Ichiro Suzuki",
+    "AgeThatYear": "33",
+    "Hits": 238,
+    "Year": 2007,
+    "Bats": "L",
+    "id": 20
+  },
+  {
+    "Rank": "21",
+    "Player": "Hugh Duffy",
+    "AgeThatYear": "27",
+    "Hits": 237,
+    "Year": 1894,
+    "Bats": "R",
+    "id": 21
+  },
+  {
+    "Rank": "",
+    "Player": "Harry Heilmann",
+    "AgeThatYear": "26",
+    "Hits": 237,
+    "Year": 1921,
+    "Bats": "R",
+    "id": 22
+  },
+  {
+    "Rank": "",
+    "Player": "Joe Medwick",
+    "AgeThatYear": "25",
+    "Hits": 237,
+    "Year": 1937,
+    "Bats": "R",
+    "id": 23
+  },
+  {
+    "Rank": "",
+    "Player": "Paul Waner",
+    "AgeThatYear": "24",
+    "Hits": 237,
+    "Year": 1927,
+    "Bats": "L",
+    "id": 24
+  },
+  {
+    "Rank": "25",
+    "Player": "Jack Tobin",
+    "AgeThatYear": "29",
+    "Hits": 236,
+    "Year": 1921,
+    "Bats": "L",
+    "id": 25
+  },
+  {
+    "Rank": "26",
+    "Player": "Rogers Hornsby",
+    "AgeThatYear": "25",
+    "Hits": 235,
+    "Year": 1921,
+    "Bats": "R",
+    "id": 26
+  },
+  {
+    "Rank": "27",
+    "Player": "Kirby Puckett",
+    "AgeThatYear": "28",
+    "Hits": 234,
+    "Year": 1988,
+    "Bats": "R",
+    "id": 27
+  },
+  {
+    "Rank": "",
+    "Player": "Lloyd Waner",
+    "AgeThatYear": "23",
+    "Hits": 234,
+    "Year": 1929,
+    "Bats": "L",
+    "id": 28
+  },
+  {
+    "Rank": "29",
+    "Player": "Shoeless Joe Jackson",
+    "AgeThatYear": "23",
+    "Hits": 233,
+    "Year": 1911,
+    "Bats": "L",
+    "id": 29
+  },
+  {
+    "Rank": "30",
+    "Player": "Earl Averill",
+    "AgeThatYear": "34",
+    "Hits": 232,
+    "Year": 1936,
+    "Bats": "L",
+    "id": 30
+  },
+  {
+    "Rank": "",
+    "Player": "Nap Lajoie",
+    "AgeThatYear": "26",
+    "Hits": 232,
+    "Year": 1901,
+    "Bats": "R",
+    "id": 31
+  },
+  {
+    "Rank": "32",
+    "Player": "Matty Alou",
+    "AgeThatYear": "30",
+    "Hits": 231,
+    "Year": 1969,
+    "Bats": "L",
+    "id": 32
+  },
+  {
+    "Rank": "",
+    "Player": "Earle Combs",
+    "AgeThatYear": "28",
+    "Hits": 231,
+    "Year": 1927,
+    "Bats": "L",
+    "id": 33
+  },
+  {
+    "Rank": "",
+    "Player": "Freddie Lindstrom",
+    "AgeThatYear": "22",
+    "Hits": 231,
+    "Year": 1928,
+    "Bats": "R",
+    "id": 34
+  },
+  {
+    "Rank": "",
+    "Player": "Freddie Lindstrom",
+    "AgeThatYear": "24",
+    "Hits": 231,
+    "Year": 1930,
+    "Bats": "R",
+    "id": 35
+  },
+  {
+    "Rank": "36",
+    "Player": "Tommy Davis",
+    "AgeThatYear": "23",
+    "Hits": 230,
+    "Year": 1962,
+    "Bats": "R",
+    "id": 36
+  },
+  {
+    "Rank": "",
+    "Player": "Stan Musial",
+    "AgeThatYear": "27",
+    "Hits": 230,
+    "Year": 1948,
+    "Bats": "L",
+    "id": 37
+  },
+  {
+    "Rank": "",
+    "Player": "Pete Rose",
+    "AgeThatYear": "32",
+    "Hits": 230,
+    "Year": 1973,
+    "Bats": "B",
+    "id": 38
+  },
+  {
+    "Rank": "",
+    "Player": "Joe Torre",
+    "AgeThatYear": "30",
+    "Hits": 230,
+    "Year": 1971,
+    "Bats": "R",
+    "id": 39
+  },
+  {
+    "Rank": "",
+    "Player": "Willie Wilson",
+    "AgeThatYear": "24",
+    "Hits": 230,
+    "Year": 1980,
+    "Bats": "B",
+    "id": 40
+  },
+  {
+    "Rank": "41",
+    "Player": "Rogers Hornsby",
+    "AgeThatYear": "33",
+    "Hits": 229,
+    "Year": 1929,
+    "Bats": "R",
+    "id": 41
+  },
+  {
+    "Rank": "42",
+    "Player": "Kiki Cuyler",
+    "AgeThatYear": "31",
+    "Hits": 228,
+    "Year": 1930,
+    "Bats": "R",
+    "id": 42
+  },
+  {
+    "Rank": "",
+    "Player": "Stan Musial",
+    "AgeThatYear": "25",
+    "Hits": 228,
+    "Year": 1946,
+    "Bats": "L",
+    "id": 43
+  },
+  {
+    "Rank": "44",
+    "Player": "Jim Bottomley",
+    "AgeThatYear": "25",
+    "Hits": 227,
+    "Year": 1925,
+    "Bats": "L",
+    "id": 44
+  },
+  {
+    "Rank": "",
+    "Player": "Charlie Gehringer",
+    "AgeThatYear": "33",
+    "Hits": 227,
+    "Year": 1936,
+    "Bats": "L",
+    "id": 45
+  },
+  {
+    "Rank": "",
+    "Player": "Billy Herman",
+    "AgeThatYear": "25",
+    "Hits": 227,
+    "Year": 1935,
+    "Bats": "R",
+    "id": 46
+  },
+  {
+    "Rank": "",
+    "Player": "Rogers Hornsby",
+    "AgeThatYear": "28",
+    "Hits": 227,
+    "Year": 1924,
+    "Bats": "R",
+    "id": 47
+  },
+  {
+    "Rank": "",
+    "Player": "Lance Johnson",
+    "AgeThatYear": "32",
+    "Hits": 227,
+    "Year": 1996,
+    "Bats": "L",
+    "id": 48
+  },
+  {
+    "Rank": "",
+    "Player": "Nap Lajoie",
+    "AgeThatYear": "35",
+    "Hits": 227,
+    "Year": 1910,
+    "Bats": "R",
+    "id": 49
+  },
+  {
+    "Rank": "",
+    "Player": "Sam Rice",
+    "AgeThatYear": "35",
+    "Hits": 227,
+    "Year": 1925,
+    "Bats": "L",
+    "id": 50
+  },
+  {
+    "Rank": "51",
+    "Player": "Jesse Burkett",
+    "AgeThatYear": "32",
+    "Hits": 226,
+    "Year": 1901,
+    "Bats": "L",
+    "id": 51
+  },
+  {
+    "Rank": "",
+    "Player": "Ty Cobb",
+    "AgeThatYear": "25",
+    "Hits": 226,
+    "Year": 1912,
+    "Bats": "L",
+    "id": 52
+  },
+  {
+    "Rank": "",
+    "Player": "Shoeless Joe Jackson",
+    "AgeThatYear": "24",
+    "Hits": 226,
+    "Year": 1912,
+    "Bats": "L",
+    "id": 53
+  },
+  {
+    "Rank": "",
+    "Player": "Chuck Klein",
+    "AgeThatYear": "27",
+    "Hits": 226,
+    "Year": 1932,
+    "Bats": "L",
+    "id": 54
+  },
+  {
+    "Rank": "",
+    "Player": "Bill Terry",
+    "AgeThatYear": "30",
+    "Hits": 226,
+    "Year": 1929,
+    "Bats": "L",
+    "id": 55
+  },
+  {
+    "Rank": "56",
+    "Player": "Jose Altuve",
+    "AgeThatYear": "24",
+    "Hits": 225,
+    "Year": 2014,
+    "Bats": "R",
+    "id": 56
+  },
+  {
+    "Rank": "",
+    "Player": "Jesse Burkett",
+    "AgeThatYear": "26",
+    "Hits": 225,
+    "Year": 1895,
+    "Bats": "L",
+    "id": 57
+  },
+  {
+    "Rank": "",
+    "Player": "Ty Cobb",
+    "AgeThatYear": "30",
+    "Hits": 225,
+    "Year": 1917,
+    "Bats": "L",
+    "id": 58
+  },
+  {
+    "Rank": "",
+    "Player": "Billy Hamilton",
+    "AgeThatYear": "28",
+    "Hits": 225,
+    "Year": 1894,
+    "Bats": "L",
+    "id": 59
+  },
+  {
+    "Rank": "",
+    "Player": "Harry Heilmann",
+    "AgeThatYear": "30",
+    "Hits": 225,
+    "Year": 1925,
+    "Bats": "R",
+    "id": 60
+  },
+  {
+    "Rank": "",
+    "Player": "Johnny Hodapp",
+    "AgeThatYear": "24",
+    "Hits": 225,
+    "Year": 1930,
+    "Bats": "R",
+    "id": 61
+  },
+  {
+    "Rank": "",
+    "Player": "Paul Molitor",
+    "AgeThatYear": "39",
+    "Hits": 225,
+    "Year": 1996,
+    "Bats": "R",
+    "id": 62
+  },
+  {
+    "Rank": "",
+    "Player": "Tip O'Neill",
+    "AgeThatYear": "29",
+    "Hits": 225,
+    "Year": 1887,
+    "Bats": "R",
+    "id": 63
+  },
+  {
+    "Rank": "",
+    "Player": "Ichiro Suzuki",
+    "AgeThatYear": "35",
+    "Hits": 225,
+    "Year": 2009,
+    "Bats": "L",
+    "id": 64
+  },
+  {
+    "Rank": "",
+    "Player": "Bill Terry",
+    "AgeThatYear": "33",
+    "Hits": 225,
+    "Year": 1932,
+    "Bats": "L",
+    "id": 65
+  },
+  {
+    "Rank": "66",
+    "Player": "Eddie Collins",
+    "AgeThatYear": "33",
+    "Hits": 224,
+    "Year": 1920,
+    "Bats": "L",
+    "id": 66
+  },
+  {
+    "Rank": "",
+    "Player": "Tommy Holmes",
+    "AgeThatYear": "28",
+    "Hits": 224,
+    "Year": 1945,
+    "Bats": "L",
+    "id": 67
+  },
+  {
+    "Rank": "",
+    "Player": "Joe Medwick",
+    "AgeThatYear": "23",
+    "Hits": 224,
+    "Year": 1935,
+    "Bats": "R",
+    "id": 68
+  },
+  {
+    "Rank": "",
+    "Player": "George Sisler",
+    "AgeThatYear": "32",
+    "Hits": 224,
+    "Year": 1925,
+    "Bats": "L",
+    "id": 69
+  },
+  {
+    "Rank": "",
+    "Player": "Ichiro Suzuki",
+    "AgeThatYear": "32",
+    "Hits": 224,
+    "Year": 2006,
+    "Bats": "L",
+    "id": 70
+  },
+  {
+    "Rank": "71",
+    "Player": "Hank Aaron",
+    "AgeThatYear": "25",
+    "Hits": 223,
+    "Year": 1959,
+    "Bats": "R",
+    "id": 71
+  },
+  {
+    "Rank": "",
+    "Player": "Frankie Frisch",
+    "AgeThatYear": "25",
+    "Hits": 223,
+    "Year": 1923,
+    "Bats": "B",
+    "id": 72
+  },
+  {
+    "Rank": "",
+    "Player": "Chuck Klein",
+    "AgeThatYear": "28",
+    "Hits": 223,
+    "Year": 1933,
+    "Bats": "L",
+    "id": 73
+  },
+  {
+    "Rank": "",
+    "Player": "Joe Medwick",
+    "AgeThatYear": "24",
+    "Hits": 223,
+    "Year": 1936,
+    "Bats": "R",
+    "id": 74
+  },
+  {
+    "Rank": "",
+    "Player": "Kirby Puckett",
+    "AgeThatYear": "26",
+    "Hits": 223,
+    "Year": 1986,
+    "Bats": "R",
+    "id": 75
+  },
+  {
+    "Rank": "",
+    "Player": "Lloyd Waner",
+    "AgeThatYear": "21",
+    "Hits": 223,
+    "Year": 1927,
+    "Bats": "L",
+    "id": 76
+  },
+  {
+    "Rank": "",
+    "Player": "Paul Waner",
+    "AgeThatYear": "25",
+    "Hits": 223,
+    "Year": 1928,
+    "Bats": "L",
+    "id": 77
+  },
+  {
+    "Rank": "78",
+    "Player": "Charlie Jamieson",
+    "AgeThatYear": "30",
+    "Hits": 222,
+    "Year": 1923,
+    "Bats": "L",
+    "id": 78
+  },
+  {
+    "Rank": "",
+    "Player": "Tris Speaker",
+    "AgeThatYear": "24",
+    "Hits": 222,
+    "Year": 1912,
+    "Bats": "L",
+    "id": 79
+  },
+  {
+    "Rank": "",
+    "Player": "Sam Thompson",
+    "AgeThatYear": "33",
+    "Hits": 222,
+    "Year": 1893,
+    "Bats": "L",
+    "id": 80
+  },
+  {
+    "Rank": "81",
+    "Player": "Richie Ashburn",
+    "AgeThatYear": "24",
+    "Hits": 221,
+    "Year": 1951,
+    "Bats": "L",
+    "id": 81
+  },
+  {
+    "Rank": "",
+    "Player": "Jesse Burkett",
+    "AgeThatYear": "30",
+    "Hits": 221,
+    "Year": 1899,
+    "Bats": "L",
+    "id": 82
+  },
+  {
+    "Rank": "",
+    "Player": "Heinie Manush",
+    "AgeThatYear": "31",
+    "Hits": 221,
+    "Year": 1933,
+    "Bats": "L",
+    "id": 83
+  },
+  {
+    "Rank": "",
+    "Player": "Juan Pierre",
+    "AgeThatYear": "26",
+    "Hits": 221,
+    "Year": 2004,
+    "Bats": "L",
+    "id": 84
+  },
+  {
+    "Rank": "",
+    "Player": "Lloyd Waner",
+    "AgeThatYear": "22",
+    "Hits": 221,
+    "Year": 1928,
+    "Bats": "L",
+    "id": 85
+  },
+  {
+    "Rank": "",
+    "Player": "Zack Wheat",
+    "AgeThatYear": "37",
+    "Hits": 221,
+    "Year": 1925,
+    "Bats": "L",
+    "id": 86
+  },
+  {
+    "Rank": "",
+    "Player": "Michael Young",
+    "AgeThatYear": "28",
+    "Hits": 221,
+    "Year": 2005,
+    "Bats": "R",
+    "id": 87
+  },
+  {
+    "Rank": "88",
+    "Player": "Pete Browning",
+    "AgeThatYear": "26",
+    "Hits": 220,
+    "Year": 1887,
+    "Bats": "R",
+    "id": 88
+  },
+  {
+    "Rank": "",
+    "Player": "Kiki Cuyler",
+    "AgeThatYear": "26",
+    "Hits": 220,
+    "Year": 1925,
+    "Bats": "R",
+    "id": 89
+  },
+  {
+    "Rank": "",
+    "Player": "Lou Gehrig",
+    "AgeThatYear": "27",
+    "Hits": 220,
+    "Year": 1930,
+    "Bats": "L",
+    "id": 90
+  },
+  {
+    "Rank": "",
+    "Player": "Tony Gwynn",
+    "AgeThatYear": "37",
+    "Hits": 220,
+    "Year": 1997,
+    "Bats": "L",
+    "id": 91
+  },
+  {
+    "Rank": "",
+    "Player": "Stan Musial",
+    "AgeThatYear": "22",
+    "Hits": 220,
+    "Year": 1943,
+    "Bats": "L",
+    "id": 92
+  },
+  {
+    "Rank": "",
+    "Player": "Jimmy Williams",
+    "AgeThatYear": "22",
+    "Hits": 220,
+    "Year": 1899,
+    "Bats": "R",
+    "id": 93
+  },
+  {
+    "Rank": "94",
+    "Player": "Dante Bichette",
+    "AgeThatYear": "34",
+    "Hits": 219,
+    "Year": 1998,
+    "Bats": "R",
+    "id": 94
+  },
+  {
+    "Rank": "",
+    "Player": "Cecil Cooper",
+    "AgeThatYear": "30",
+    "Hits": 219,
+    "Year": 1980,
+    "Bats": "L",
+    "id": 95
+  },
+  {
+    "Rank": "",
+    "Player": "Ed Delahanty",
+    "AgeThatYear": "25",
+    "Hits": 219,
+    "Year": 1893,
+    "Bats": "R",
+    "id": 96
+  },
+  {
+    "Rank": "",
+    "Player": "Ralph Garr",
+    "AgeThatYear": "25",
+    "Hits": 219,
+    "Year": 1971,
+    "Bats": "L",
+    "id": 97
+  },
+  {
+    "Rank": "",
+    "Player": "Derek Jeter",
+    "AgeThatYear": "25",
+    "Hits": 219,
+    "Year": 1999,
+    "Bats": "R",
+    "id": 98
+  },
+  {
+    "Rank": "",
+    "Player": "Willie Keeler",
+    "AgeThatYear": "22",
+    "Hits": 219,
+    "Year": 1894,
+    "Bats": "L",
+    "id": 99
+  },
+  {
+    "Rank": "",
+    "Player": "Chuck Klein",
+    "AgeThatYear": "24",
+    "Hits": 219,
+    "Year": 1929,
+    "Bats": "L",
+    "id": 100
+  },
+  {
+    "Rank": "",
+    "Player": "Lefty O'Doul",
+    "AgeThatYear": "35",
+    "Hits": 219,
+    "Year": 1932,
+    "Bats": "L",
+    "id": 101
+  },
+  {
+    "Rank": "",
+    "Player": "Cy Seymour",
+    "AgeThatYear": "32",
+    "Hits": 219,
+    "Year": 1905,
+    "Bats": "L",
+    "id": 102
+  },
+  {
+    "Rank": "",
+    "Player": "Paul Waner",
+    "AgeThatYear": "34",
+    "Hits": 219,
+    "Year": 1937,
+    "Bats": "L",
+    "id": 103
+  },
+  {
+    "Rank": "104",
+    "Player": "Felipe Alou",
+    "AgeThatYear": "31",
+    "Hits": 218,
+    "Year": 1966,
+    "Bats": "R",
+    "id": 104
+  },
+  {
+    "Rank": "",
+    "Player": "Beau Bell",
+    "AgeThatYear": "29",
+    "Hits": 218,
+    "Year": 1937,
+    "Bats": "R",
+    "id": 105
+  },
+  {
+    "Rank": "",
+    "Player": "Rod Carew",
+    "AgeThatYear": "28",
+    "Hits": 218,
+    "Year": 1974,
+    "Bats": "L",
+    "id": 106
+  },
+  {
+    "Rank": "",
+    "Player": "Lou Gehrig",
+    "AgeThatYear": "24",
+    "Hits": 218,
+    "Year": 1927,
+    "Bats": "L",
+    "id": 107
+  },
+  {
+    "Rank": "",
+    "Player": "Tony Gwynn",
+    "AgeThatYear": "27",
+    "Hits": 218,
+    "Year": 1987,
+    "Bats": "L",
+    "id": 108
+  },
+  {
+    "Rank": "",
+    "Player": "Rogers Hornsby",
+    "AgeThatYear": "24",
+    "Hits": 218,
+    "Year": 1920,
+    "Bats": "R",
+    "id": 109
+  },
+  {
+    "Rank": "",
+    "Player": "Shoeless Joe Jackson",
+    "AgeThatYear": "32",
+    "Hits": 218,
+    "Year": 1920,
+    "Bats": "L",
+    "id": 110
+  },
+  {
+    "Rank": "",
+    "Player": "George Kell",
+    "AgeThatYear": "27",
+    "Hits": 218,
+    "Year": 1950,
+    "Bats": "R",
+    "id": 111
+  },
+  {
+    "Rank": "",
+    "Player": "Pete Rose",
+    "AgeThatYear": "28",
+    "Hits": 218,
+    "Year": 1969,
+    "Bats": "B",
+    "id": 112
+  },
+  {
+    "Rank": "",
+    "Player": "Tris Speaker",
+    "AgeThatYear": "35",
+    "Hits": 218,
+    "Year": 1923,
+    "Bats": "L",
+    "id": 113
+  },
+  {
+    "Rank": "",
+    "Player": "Cecil Travis",
+    "AgeThatYear": "27",
+    "Hits": 218,
+    "Year": 1941,
+    "Bats": "L",
+    "id": 114
+  },
+  {
+    "Rank": "",
+    "Player": "Paul Waner",
+    "AgeThatYear": "33",
+    "Hits": 218,
+    "Year": 1936,
+    "Bats": "L",
+    "id": 115
+  },
+  {
+    "Rank": "116",
+    "Player": "Sam Crawford",
+    "AgeThatYear": "31",
+    "Hits": 217,
+    "Year": 1911,
+    "Bats": "L",
+    "id": 116
+  },
+  {
+    "Rank": "",
+    "Player": "Babe Herman",
+    "AgeThatYear": "26",
+    "Hits": 217,
+    "Year": 1929,
+    "Bats": "L",
+    "id": 117
+  },
+  {
+    "Rank": "",
+    "Player": "Tony Oliva",
+    "AgeThatYear": "25",
+    "Hits": 217,
+    "Year": 1964,
+    "Bats": "L",
+    "id": 118
+  },
+  {
+    "Rank": "",
+    "Player": "Paul Waner",
+    "AgeThatYear": "27",
+    "Hits": 217,
+    "Year": 1930,
+    "Bats": "L",
+    "id": 119
+  },
+  {
+    "Rank": "",
+    "Player": "Paul Waner",
+    "AgeThatYear": "31",
+    "Hits": 217,
+    "Year": 1934,
+    "Bats": "L",
+    "id": 120
+  },
+  {
+    "Rank": "",
+    "Player": "Michael Young",
+    "AgeThatYear": "29",
+    "Hits": 217,
+    "Year": 2006,
+    "Bats": "R",
+    "id": 121
+  },
+  {
+    "Rank": "122",
+    "Player": "Jose Altuve",
+    "AgeThatYear": "26",
+    "Hits": 216,
+    "Year": 2016,
+    "Bats": "R",
+    "id": 122
+  },
+  {
+    "Rank": "",
+    "Player": "George Burns",
+    "AgeThatYear": "33",
+    "Hits": 216,
+    "Year": 1926,
+    "Bats": "R",
+    "id": 123
+  },
+  {
+    "Rank": "",
+    "Player": "Ty Cobb",
+    "AgeThatYear": "22",
+    "Hits": 216,
+    "Year": 1909,
+    "Bats": "L",
+    "id": 124
+  },
+  {
+    "Rank": "",
+    "Player": "Mike Donlin",
+    "AgeThatYear": "27",
+    "Hits": 216,
+    "Year": 1905,
+    "Bats": "L",
+    "id": 125
+  },
+  {
+    "Rank": "",
+    "Player": "Todd Helton",
+    "AgeThatYear": "26",
+    "Hits": 216,
+    "Year": 2000,
+    "Bats": "L",
+    "id": 126
+  },
+  {
+    "Rank": "",
+    "Player": "Matt Holliday",
+    "AgeThatYear": "27",
+    "Hits": 216,
+    "Year": 2007,
+    "Bats": "R",
+    "id": 127
+  },
+  {
+    "Rank": "",
+    "Player": "Baby Doll Jacobson",
+    "AgeThatYear": "29",
+    "Hits": 216,
+    "Year": 1920,
+    "Bats": "R",
+    "id": 128
+  },
+  {
+    "Rank": "",
+    "Player": "Derek Jeter",
+    "AgeThatYear": "38",
+    "Hits": 216,
+    "Year": 2012,
+    "Bats": "R",
+    "id": 129
+  },
+  {
+    "Rank": "",
+    "Player": "Willie Keeler",
+    "AgeThatYear": "26",
+    "Hits": 216,
+    "Year": 1898,
+    "Bats": "L",
+    "id": 130
+  },
+  {
+    "Rank": "",
+    "Player": "Willie Keeler",
+    "AgeThatYear": "27",
+    "Hits": 216,
+    "Year": 1899,
+    "Bats": "L",
+    "id": 131
+  },
+  {
+    "Rank": "",
+    "Player": "Willie McGee",
+    "AgeThatYear": "26",
+    "Hits": 216,
+    "Year": 1985,
+    "Bats": "B",
+    "id": 132
+  },
+  {
+    "Rank": "",
+    "Player": "Paul Molitor",
+    "AgeThatYear": "34",
+    "Hits": 216,
+    "Year": 1991,
+    "Bats": "R",
+    "id": 133
+  },
+  {
+    "Rank": "",
+    "Player": "Magglio Ordonez",
+    "AgeThatYear": "33",
+    "Hits": 216,
+    "Year": 2007,
+    "Bats": "R",
+    "id": 134
+  },
+  {
+    "Rank": "",
+    "Player": "Sam Rice",
+    "AgeThatYear": "34",
+    "Hits": 216,
+    "Year": 1924,
+    "Bats": "L",
+    "id": 135
+  },
+  {
+    "Rank": "",
+    "Player": "Sam Rice",
+    "AgeThatYear": "36",
+    "Hits": 216,
+    "Year": 1926,
+    "Bats": "L",
+    "id": 136
+  },
+  {
+    "Rank": "",
+    "Player": "Al Simmons",
+    "AgeThatYear": "30",
+    "Hits": 216,
+    "Year": 1932,
+    "Bats": "R",
+    "id": 137
+  },
+  {
+    "Rank": "",
+    "Player": "George Sisler",
+    "AgeThatYear": "28",
+    "Hits": 216,
+    "Year": 1921,
+    "Bats": "L",
+    "id": 138
+  },
+  {
+    "Rank": "",
+    "Player": "Hal Trosky",
+    "AgeThatYear": "23",
+    "Hits": 216,
+    "Year": 1936,
+    "Bats": "L",
+    "id": 139
+  },
+  {
+    "Rank": "",
+    "Player": "Joe Vosmik",
+    "AgeThatYear": "25",
+    "Hits": 216,
+    "Year": 1935,
+    "Bats": "R",
+    "id": 140
+  },
+  {
+    "Rank": "",
+    "Player": "Michael Young",
+    "AgeThatYear": "27",
+    "Hits": 216,
+    "Year": 2004,
+    "Bats": "R",
+    "id": 141
+  },
+  {
+    "Rank": "142",
+    "Player": "Dale Alexander",
+    "AgeThatYear": "26",
+    "Hits": 215,
+    "Year": 1929,
+    "Bats": "R",
+    "id": 142
+  },
+  {
+    "Rank": "",
+    "Player": "Richie Ashburn",
+    "AgeThatYear": "31",
+    "Hits": 215,
+    "Year": 1958,
+    "Bats": "L",
+    "id": 143
+  },
+  {
+    "Rank": "",
+    "Player": "Carson Bigbee",
+    "AgeThatYear": "27",
+    "Hits": 215,
+    "Year": 1922,
+    "Bats": "L",
+    "id": 144
+  },
+  {
+    "Rank": "",
+    "Player": "George Brett",
+    "AgeThatYear": "23",
+    "Hits": 215,
+    "Year": 1976,
+    "Bats": "L",
+    "id": 145
+  },
+  {
+    "Rank": "",
+    "Player": "Joe DiMaggio",
+    "AgeThatYear": "22",
+    "Hits": 215,
+    "Year": 1937,
+    "Bats": "R",
+    "id": 146
+  },
+  {
+    "Rank": "",
+    "Player": "Charlie Gehringer",
+    "AgeThatYear": "26",
+    "Hits": 215,
+    "Year": 1929,
+    "Bats": "L",
+    "id": 147
+  },
+  {
+    "Rank": "",
+    "Player": "Buddy Myer",
+    "AgeThatYear": "31",
+    "Hits": 215,
+    "Year": 1935,
+    "Bats": "L",
+    "id": 148
+  },
+  {
+    "Rank": "",
+    "Player": "Dave Parker",
+    "AgeThatYear": "26",
+    "Hits": 215,
+    "Year": 1977,
+    "Bats": "L",
+    "id": 149
+  },
+  {
+    "Rank": "",
+    "Player": "Kirby Puckett",
+    "AgeThatYear": "29",
+    "Hits": 215,
+    "Year": 1989,
+    "Bats": "R",
+    "id": 150
+  },
+  {
+    "Rank": "",
+    "Player": "Alex Rodriguez",
+    "AgeThatYear": "20",
+    "Hits": 215,
+    "Year": 1996,
+    "Bats": "R",
+    "id": 151
+  },
+  {
+    "Rank": "",
+    "Player": "Pete Rose",
+    "AgeThatYear": "35",
+    "Hits": 215,
+    "Year": 1976,
+    "Bats": "B",
+    "id": 152
+  },
+  {
+    "Rank": "",
+    "Player": "Paul Waner",
+    "AgeThatYear": "29",
+    "Hits": 215,
+    "Year": 1932,
+    "Bats": "L",
+    "id": 153
+  },
+  {
+    "Rank": "",
+    "Player": "Vernon Wells",
+    "AgeThatYear": "24",
+    "Hits": 215,
+    "Year": 2003,
+    "Bats": "R",
+    "id": 154
+  },
+  {
+    "Rank": "155",
+    "Player": "Mookie Betts",
+    "AgeThatYear": "23",
+    "Hits": 214,
+    "Year": 2016,
+    "Bats": "R",
+    "id": 155
+  },
+  {
+    "Rank": "",
+    "Player": "Wade Boggs",
+    "AgeThatYear": "30",
+    "Hits": 214,
+    "Year": 1988,
+    "Bats": "L",
+    "id": 156
+  },
+  {
+    "Rank": "",
+    "Player": "Doc Cramer",
+    "AgeThatYear": "29",
+    "Hits": 214,
+    "Year": 1935,
+    "Bats": "L",
+    "id": 157
+  },
+  {
+    "Rank": "",
+    "Player": "Johnny Damon",
+    "AgeThatYear": "26",
+    "Hits": 214,
+    "Year": 2000,
+    "Bats": "L",
+    "id": 158
+  },
+  {
+    "Rank": "",
+    "Player": "Woody English",
+    "AgeThatYear": "24",
+    "Hits": 214,
+    "Year": 1930,
+    "Bats": "R",
+    "id": 159
+  },
+  {
+    "Rank": "",
+    "Player": "Ralph Garr",
+    "AgeThatYear": "28",
+    "Hits": 214,
+    "Year": 1974,
+    "Bats": "L",
+    "id": 160
+  },
+  {
+    "Rank": "",
+    "Player": "Charlie Gehringer",
+    "AgeThatYear": "31",
+    "Hits": 214,
+    "Year": 1934,
+    "Bats": "L",
+    "id": 161
+  },
+  {
+    "Rank": "",
+    "Player": "Derek Jeter",
+    "AgeThatYear": "32",
+    "Hits": 214,
+    "Year": 2006,
+    "Bats": "R",
+    "id": 162
+  },
+  {
+    "Rank": "",
+    "Player": "Nap Lajoie",
+    "AgeThatYear": "31",
+    "Hits": 214,
+    "Year": 1906,
+    "Bats": "R",
+    "id": 163
+  },
+  {
+    "Rank": "",
+    "Player": "Heinie Manush",
+    "AgeThatYear": "30",
+    "Hits": 214,
+    "Year": 1932,
+    "Bats": "L",
+    "id": 164
+  },
+  {
+    "Rank": "",
+    "Player": "Tris Speaker",
+    "AgeThatYear": "32",
+    "Hits": 214,
+    "Year": 1920,
+    "Bats": "L",
+    "id": 165
+  },
+  {
+    "Rank": "",
+    "Player": "Ichiro Suzuki",
+    "AgeThatYear": "36",
+    "Hits": 214,
+    "Year": 2010,
+    "Bats": "L",
+    "id": 166
+  },
+  {
+    "Rank": "",
+    "Player": "Miguel Tejada",
+    "AgeThatYear": "32",
+    "Hits": 214,
+    "Year": 2006,
+    "Bats": "R",
+    "id": 167
+  },
+  {
+    "Rank": "",
+    "Player": "Lloyd Waner",
+    "AgeThatYear": "25",
+    "Hits": 214,
+    "Year": 1931,
+    "Bats": "L",
+    "id": 168
+  },
+  {
+    "Rank": "169",
+    "Player": "Charlie Blackmon",
+    "AgeThatYear": "30",
+    "Hits": 213,
+    "Year": 2017,
+    "Bats": "L",
+    "id": 169
+  },
+  {
+    "Rank": "",
+    "Player": "Jesse Burkett",
+    "AgeThatYear": "29",
+    "Hits": 213,
+    "Year": 1898,
+    "Bats": "L",
+    "id": 170
+  },
+  {
+    "Rank": "",
+    "Player": "Dave Cash",
+    "AgeThatYear": "27",
+    "Hits": 213,
+    "Year": 1975,
+    "Bats": "R",
+    "id": 171
+  },
+  {
+    "Rank": "",
+    "Player": "Tony Fernandez",
+    "AgeThatYear": "24",
+    "Hits": 213,
+    "Year": 1986,
+    "Bats": "B",
+    "id": 172
+  },
+  {
+    "Rank": "",
+    "Player": "Jimmie Foxx",
+    "AgeThatYear": "24",
+    "Hits": 213,
+    "Year": 1932,
+    "Bats": "R",
+    "id": 173
+  },
+  {
+    "Rank": "",
+    "Player": "Adrian Gonzalez",
+    "AgeThatYear": "29",
+    "Hits": 213,
+    "Year": 2011,
+    "Bats": "L",
+    "id": 174
+  },
+  {
+    "Rank": "",
+    "Player": "Tony Gwynn",
+    "AgeThatYear": "24",
+    "Hits": 213,
+    "Year": 1984,
+    "Bats": "L",
+    "id": 175
+  },
+  {
+    "Rank": "",
+    "Player": "Charlie Jamieson",
+    "AgeThatYear": "31",
+    "Hits": 213,
+    "Year": 1924,
+    "Bats": "L",
+    "id": 176
+  },
+  {
+    "Rank": "",
+    "Player": "Willie Keeler",
+    "AgeThatYear": "23",
+    "Hits": 213,
+    "Year": 1895,
+    "Bats": "L",
+    "id": 177
+  },
+  {
+    "Rank": "",
+    "Player": "Dustin Pedroia",
+    "AgeThatYear": "24",
+    "Hits": 213,
+    "Year": 2008,
+    "Bats": "R",
+    "id": 178
+  },
+  {
+    "Rank": "",
+    "Player": "Jim Rice",
+    "AgeThatYear": "25",
+    "Hits": 213,
+    "Year": 1978,
+    "Bats": "R",
+    "id": 179
+  },
+  {
+    "Rank": "",
+    "Player": "Alex Rodriguez",
+    "AgeThatYear": "22",
+    "Hits": 213,
+    "Year": 1998,
+    "Bats": "R",
+    "id": 180
+  },
+  {
+    "Rank": "",
+    "Player": "Red Rolfe",
+    "AgeThatYear": "30",
+    "Hits": 213,
+    "Year": 1939,
+    "Bats": "L",
+    "id": 181
+  },
+  {
+    "Rank": "",
+    "Player": "Ichiro Suzuki",
+    "AgeThatYear": "34",
+    "Hits": 213,
+    "Year": 2008,
+    "Bats": "L",
+    "id": 182
+  },
+  {
+    "Rank": "",
+    "Player": "Bill Terry",
+    "AgeThatYear": "32",
+    "Hits": 213,
+    "Year": 1931,
+    "Bats": "L",
+    "id": 183
+  },
+  {
+    "Rank": "",
+    "Player": "Bill Terry",
+    "AgeThatYear": "35",
+    "Hits": 213,
+    "Year": 1934,
+    "Bats": "L",
+    "id": 184
+  },
+  {
+    "Rank": "",
+    "Player": "Gee Walker",
+    "AgeThatYear": "29",
+    "Hits": 213,
+    "Year": 1937,
+    "Bats": "R",
+    "id": 185
+  },
+  {
+    "Rank": "",
+    "Player": "Michael Young",
+    "AgeThatYear": "34",
+    "Hits": 213,
+    "Year": 2011,
+    "Bats": "R",
+    "id": 186
+  },
+  {
+    "Rank": "187",
+    "Player": "Beau Bell",
+    "AgeThatYear": "28",
+    "Hits": 212,
+    "Year": 1936,
+    "Bats": "R",
+    "id": 187
+  },
+  {
+    "Rank": "",
+    "Player": "George Brett",
+    "AgeThatYear": "26",
+    "Hits": 212,
+    "Year": 1979,
+    "Bats": "L",
+    "id": 188
+  },
+  {
+    "Rank": "",
+    "Player": "Ty Cobb",
+    "AgeThatYear": "20",
+    "Hits": 212,
+    "Year": 1907,
+    "Bats": "L",
+    "id": 189
+  },
+  {
+    "Rank": "",
+    "Player": "Frank Demaree",
+    "AgeThatYear": "26",
+    "Hits": 212,
+    "Year": 1936,
+    "Bats": "R",
+    "id": 190
+  },
+  {
+    "Rank": "",
+    "Player": "Jacoby Ellsbury",
+    "AgeThatYear": "27",
+    "Hits": 212,
+    "Year": 2011,
+    "Bats": "L",
+    "id": 191
+  },
+  {
+    "Rank": "",
+    "Player": "Derek Jeter",
+    "AgeThatYear": "35",
+    "Hits": 212,
+    "Year": 2009,
+    "Bats": "R",
+    "id": 192
+  },
+  {
+    "Rank": "",
+    "Player": "Ron LeFlore",
+    "AgeThatYear": "29",
+    "Hits": 212,
+    "Year": 1977,
+    "Bats": "R",
+    "id": 193
+  },
+  {
+    "Rank": "",
+    "Player": "Bobby Lowe",
+    "AgeThatYear": "28",
+    "Hits": 212,
+    "Year": 1894,
+    "Bats": "R",
+    "id": 194
+  },
+  {
+    "Rank": "",
+    "Player": "Don Mueller",
+    "AgeThatYear": "27",
+    "Hits": 212,
+    "Year": 1954,
+    "Bats": "L",
+    "id": 195
+  },
+  {
+    "Rank": "",
+    "Player": "Albert Pujols",
+    "AgeThatYear": "23",
+    "Hits": 212,
+    "Year": 2003,
+    "Bats": "R",
+    "id": 196
+  },
+  {
+    "Rank": "",
+    "Player": "Hanley Ramirez",
+    "AgeThatYear": "23",
+    "Hits": 212,
+    "Year": 2007,
+    "Bats": "R",
+    "id": 197
+  },
+  {
+    "Rank": "",
+    "Player": "Jimmy Rollins",
+    "AgeThatYear": "28",
+    "Hits": 212,
+    "Year": 2007,
+    "Bats": "B",
+    "id": 198
+  },
+  {
+    "Rank": "",
+    "Player": "Al Simmons",
+    "AgeThatYear": "27",
+    "Hits": 212,
+    "Year": 1929,
+    "Bats": "R",
+    "id": 199
+  },
+  {
+    "Rank": "",
+    "Player": "Ichiro Suzuki",
+    "AgeThatYear": "29",
+    "Hits": 212,
+    "Year": 2003,
+    "Bats": "L",
+    "id": 200
+  },
+  {
+    "Rank": "",
+    "Player": "Zack Wheat",
+    "AgeThatYear": "36",
+    "Hits": 212,
+    "Year": 1924,
+    "Bats": "L",
+    "id": 201
+  },
+  {
+    "Rank": "202",
+    "Player": "Ellis Burks",
+    "AgeThatYear": "31",
+    "Hits": 211,
+    "Year": 1996,
+    "Bats": "R",
+    "id": 202
+  },
+  {
+    "Rank": "",
+    "Player": "Roberto Clemente",
+    "AgeThatYear": "29",
+    "Hits": 211,
+    "Year": 1964,
+    "Bats": "R",
+    "id": 203
+  },
+  {
+    "Rank": "",
+    "Player": "Ty Cobb",
+    "AgeThatYear": "35",
+    "Hits": 211,
+    "Year": 1922,
+    "Bats": "L",
+    "id": 204
+  },
+  {
+    "Rank": "",
+    "Player": "Ty Cobb",
+    "AgeThatYear": "37",
+    "Hits": 211,
+    "Year": 1924,
+    "Bats": "L",
+    "id": 205
+  },
+  {
+    "Rank": "",
+    "Player": "Curt Flood",
+    "AgeThatYear": "26",
+    "Hits": 211,
+    "Year": 1964,
+    "Bats": "R",
+    "id": 206
+  },
+  {
+    "Rank": "",
+    "Player": "Frankie Frisch",
+    "AgeThatYear": "23",
+    "Hits": 211,
+    "Year": 1921,
+    "Bats": "B",
+    "id": 207
+  },
+  {
+    "Rank": "",
+    "Player": "Lou Gehrig",
+    "AgeThatYear": "28",
+    "Hits": 211,
+    "Year": 1931,
+    "Bats": "L",
+    "id": 208
+  },
+  {
+    "Rank": "",
+    "Player": "Tony Gwynn",
+    "AgeThatYear": "26",
+    "Hits": 211,
+    "Year": 1986,
+    "Bats": "L",
+    "id": 209
+  },
+  {
+    "Rank": "",
+    "Player": "Harry Heilmann",
+    "AgeThatYear": "28",
+    "Hits": 211,
+    "Year": 1923,
+    "Bats": "R",
+    "id": 210
+  },
+  {
+    "Rank": "",
+    "Player": "Billy Herman",
+    "AgeThatYear": "26",
+    "Hits": 211,
+    "Year": 1936,
+    "Bats": "R",
+    "id": 211
+  },
+  {
+    "Rank": "",
+    "Player": "Baby Doll Jacobson",
+    "AgeThatYear": "30",
+    "Hits": 211,
+    "Year": 1921,
+    "Bats": "R",
+    "id": 212
+  },
+  {
+    "Rank": "",
+    "Player": "Benny Kauff",
+    "AgeThatYear": "24",
+    "Hits": 211,
+    "Year": 1914,
+    "Bats": "L",
+    "id": 213
+  },
+  {
+    "Rank": "",
+    "Player": "Don Mattingly",
+    "AgeThatYear": "24",
+    "Hits": 211,
+    "Year": 1985,
+    "Bats": "L",
+    "id": 214
+  },
+  {
+    "Rank": "",
+    "Player": "Paul Molitor",
+    "AgeThatYear": "36",
+    "Hits": 211,
+    "Year": 1993,
+    "Bats": "R",
+    "id": 215
+  },
+  {
+    "Rank": "",
+    "Player": "Sam Rice",
+    "AgeThatYear": "30",
+    "Hits": 211,
+    "Year": 1920,
+    "Bats": "L",
+    "id": 216
+  },
+  {
+    "Rank": "",
+    "Player": "Cal Ripken",
+    "AgeThatYear": "22",
+    "Hits": 211,
+    "Year": 1983,
+    "Bats": "R",
+    "id": 217
+  },
+  {
+    "Rank": "",
+    "Player": "Al Simmons",
+    "AgeThatYear": "28",
+    "Hits": 211,
+    "Year": 1930,
+    "Bats": "R",
+    "id": 218
+  },
+  {
+    "Rank": "",
+    "Player": "Tris Speaker",
+    "AgeThatYear": "28",
+    "Hits": 211,
+    "Year": 1916,
+    "Bats": "L",
+    "id": 219
+  },
+  {
+    "Rank": "",
+    "Player": "Garry Templeton",
+    "AgeThatYear": "23",
+    "Hits": 211,
+    "Year": 1979,
+    "Bats": "B",
+    "id": 220
+  },
+  {
+    "Rank": "",
+    "Player": "Sam Thompson",
+    "AgeThatYear": "35",
+    "Hits": 211,
+    "Year": 1895,
+    "Bats": "L",
+    "id": 221
+  },
+  {
+    "Rank": "222",
+    "Player": "Felipe Alou",
+    "AgeThatYear": "33",
+    "Hits": 210,
+    "Year": 1968,
+    "Bats": "R",
+    "id": 222
+  },
+  {
+    "Rank": "",
+    "Player": "Craig Biggio",
+    "AgeThatYear": "32",
+    "Hits": 210,
+    "Year": 1998,
+    "Bats": "R",
+    "id": 223
+  },
+  {
+    "Rank": "",
+    "Player": "Wade Boggs",
+    "AgeThatYear": "25",
+    "Hits": 210,
+    "Year": 1983,
+    "Bats": "L",
+    "id": 224
+  },
+  {
+    "Rank": "",
+    "Player": "Steve Brodie",
+    "AgeThatYear": "25",
+    "Hits": 210,
+    "Year": 1894,
+    "Bats": "L",
+    "id": 225
+  },
+  {
+    "Rank": "",
+    "Player": "Lave Cross",
+    "AgeThatYear": "28",
+    "Hits": 210,
+    "Year": 1894,
+    "Bats": "R",
+    "id": 226
+  },
+  {
+    "Rank": "",
+    "Player": "Steve Garvey",
+    "AgeThatYear": "26",
+    "Hits": 210,
+    "Year": 1975,
+    "Bats": "R",
+    "id": 227
+  },
+  {
+    "Rank": "",
+    "Player": "Lou Gehrig",
+    "AgeThatYear": "25",
+    "Hits": 210,
+    "Year": 1928,
+    "Bats": "L",
+    "id": 228
+  },
+  {
+    "Rank": "",
+    "Player": "Lou Gehrig",
+    "AgeThatYear": "31",
+    "Hits": 210,
+    "Year": 1934,
+    "Bats": "L",
+    "id": 229
+  },
+  {
+    "Rank": "",
+    "Player": "Keith Hernandez",
+    "AgeThatYear": "25",
+    "Hits": 210,
+    "Year": 1979,
+    "Bats": "L",
+    "id": 230
+  },
+  {
+    "Rank": "",
+    "Player": "Willie Keeler",
+    "AgeThatYear": "24",
+    "Hits": 210,
+    "Year": 1896,
+    "Bats": "L",
+    "id": 231
+  },
+  {
+    "Rank": "",
+    "Player": "Buddy Lewis",
+    "AgeThatYear": "20",
+    "Hits": 210,
+    "Year": 1937,
+    "Bats": "L",
+    "id": 232
+  },
+  {
+    "Rank": "",
+    "Player": "Kenny Lofton",
+    "AgeThatYear": "29",
+    "Hits": 210,
+    "Year": 1996,
+    "Bats": "L",
+    "id": 233
+  },
+  {
+    "Rank": "",
+    "Player": "Kirby Puckett",
+    "AgeThatYear": "32",
+    "Hits": 210,
+    "Year": 1992,
+    "Bats": "R",
+    "id": 234
+  },
+  {
+    "Rank": "",
+    "Player": "Cal Ripken",
+    "AgeThatYear": "30",
+    "Hits": 210,
+    "Year": 1991,
+    "Bats": "R",
+    "id": 235
+  },
+  {
+    "Rank": "",
+    "Player": "Mickey Rivers",
+    "AgeThatYear": "31",
+    "Hits": 210,
+    "Year": 1980,
+    "Bats": "L",
+    "id": 236
+  },
+  {
+    "Rank": "",
+    "Player": "Pete Rose",
+    "AgeThatYear": "27",
+    "Hits": 210,
+    "Year": 1968,
+    "Bats": "B",
+    "id": 237
+  },
+  {
+    "Rank": "",
+    "Player": "Pete Rose",
+    "AgeThatYear": "34",
+    "Hits": 210,
+    "Year": 1975,
+    "Bats": "B",
+    "id": 238
+  },
+  {
+    "Rank": "",
+    "Player": "Steve Sax",
+    "AgeThatYear": "26",
+    "Hits": 210,
+    "Year": 1986,
+    "Bats": "R",
+    "id": 239
+  },
+  {
+    "Rank": "",
+    "Player": "Robin Yount",
+    "AgeThatYear": "26",
+    "Hits": 210,
+    "Year": 1982,
+    "Bats": "R",
+    "id": 240
+  },
+  {
+    "Rank": "241",
+    "Player": "Earl Averill",
+    "AgeThatYear": "29",
+    "Hits": 209,
+    "Year": 1931,
+    "Bats": "L",
+    "id": 241
+  },
+  {
+    "Rank": "",
+    "Player": "Dave Bancroft",
+    "AgeThatYear": "31",
+    "Hits": 209,
+    "Year": 1922,
+    "Bats": "B",
+    "id": 242
+  },
+  {
+    "Rank": "",
+    "Player": "Ginger Beaumont",
+    "AgeThatYear": "26",
+    "Hits": 209,
+    "Year": 1903,
+    "Bats": "L",
+    "id": 243
+  },
+  {
+    "Rank": "",
+    "Player": "Roberto Clemente",
+    "AgeThatYear": "32",
+    "Hits": 209,
+    "Year": 1967,
+    "Bats": "R",
+    "id": 244
+  },
+  {
+    "Rank": "",
+    "Player": "Lew Fonseca",
+    "AgeThatYear": "30",
+    "Hits": 209,
+    "Year": 1929,
+    "Bats": "R",
+    "id": 245
+  },
+  {
+    "Rank": "",
+    "Player": "Nomar Garciaparra",
+    "AgeThatYear": "23",
+    "Hits": 209,
+    "Year": 1997,
+    "Bats": "R",
+    "id": 246
+  },
+  {
+    "Rank": "",
+    "Player": "Charlie Gehringer",
+    "AgeThatYear": "34",
+    "Hits": 209,
+    "Year": 1937,
+    "Bats": "L",
+    "id": 247
+  },
+  {
+    "Rank": "",
+    "Player": "Todd Helton",
+    "AgeThatYear": "29",
+    "Hits": 209,
+    "Year": 2003,
+    "Bats": "L",
+    "id": 248
+  },
+  {
+    "Rank": "",
+    "Player": "Hughie Jennings",
+    "AgeThatYear": "27",
+    "Hits": 209,
+    "Year": 1896,
+    "Bats": "R",
+    "id": 249
+  },
+  {
+    "Rank": "",
+    "Player": "Harvey Kuenn",
+    "AgeThatYear": "22",
+    "Hits": 209,
+    "Year": 1953,
+    "Bats": "R",
+    "id": 250
+  },
+  {
+    "Rank": "",
+    "Player": "Denny Lyons",
+    "AgeThatYear": "21",
+    "Hits": 209,
+    "Year": 1887,
+    "Bats": "R",
+    "id": 251
+  },
+  {
+    "Rank": "",
+    "Player": "Frank McCormick",
+    "AgeThatYear": "27",
+    "Hits": 209,
+    "Year": 1938,
+    "Bats": "R",
+    "id": 252
+  },
+  {
+    "Rank": "",
+    "Player": "Frank McCormick",
+    "AgeThatYear": "28",
+    "Hits": 209,
+    "Year": 1939,
+    "Bats": "R",
+    "id": 253
+  },
+  {
+    "Rank": "",
+    "Player": "Al Oliver",
+    "AgeThatYear": "33",
+    "Hits": 209,
+    "Year": 1980,
+    "Bats": "L",
+    "id": 254
+  },
+  {
+    "Rank": "",
+    "Player": "Bobby Richardson",
+    "AgeThatYear": "26",
+    "Hits": 209,
+    "Year": 1962,
+    "Bats": "R",
+    "id": 255
+  },
+  {
+    "Rank": "",
+    "Player": "Pete Rose",
+    "AgeThatYear": "24",
+    "Hits": 209,
+    "Year": 1965,
+    "Bats": "B",
+    "id": 256
+  },
+  {
+    "Rank": "",
+    "Player": "Alfonso Soriano",
+    "AgeThatYear": "26",
+    "Hits": 209,
+    "Year": 2002,
+    "Bats": "R",
+    "id": 257
+  },
+  {
+    "Rank": "",
+    "Player": "Jigger Statz",
+    "AgeThatYear": "25",
+    "Hits": 209,
+    "Year": 1923,
+    "Bats": "R",
+    "id": 258
+  },
+  {
+    "Rank": "",
+    "Player": "Fred Tenney",
+    "AgeThatYear": "27",
+    "Hits": 209,
+    "Year": 1899,
+    "Bats": "L",
+    "id": 259
+  },
+  {
+    "Rank": "260",
+    "Player": "Ty Cobb",
+    "AgeThatYear": "28",
+    "Hits": 208,
+    "Year": 1915,
+    "Bats": "L",
+    "id": 260
+  },
+  {
+    "Rank": "",
+    "Player": "Pete Fox",
+    "AgeThatYear": "28",
+    "Hits": 208,
+    "Year": 1937,
+    "Bats": "R",
+    "id": 261
+  },
+  {
+    "Rank": "",
+    "Player": "Frankie Frisch",
+    "AgeThatYear": "29",
+    "Hits": 208,
+    "Year": 1927,
+    "Bats": "B",
+    "id": 262
+  },
+  {
+    "Rank": "",
+    "Player": "Lou Gehrig",
+    "AgeThatYear": "29",
+    "Hits": 208,
+    "Year": 1932,
+    "Bats": "L",
+    "id": 263
+  },
+  {
+    "Rank": "",
+    "Player": "Nap Lajoie",
+    "AgeThatYear": "29",
+    "Hits": 208,
+    "Year": 1904,
+    "Bats": "R",
+    "id": 264
+  },
+  {
+    "Rank": "",
+    "Player": "Mark Loretta",
+    "AgeThatYear": "32",
+    "Hits": 208,
+    "Year": 2004,
+    "Bats": "R",
+    "id": 265
+  },
+  {
+    "Rank": "",
+    "Player": "Willie Mays",
+    "AgeThatYear": "27",
+    "Hits": 208,
+    "Year": 1958,
+    "Bats": "R",
+    "id": 266
+  },
+  {
+    "Rank": "",
+    "Player": "Wally Moses",
+    "AgeThatYear": "26",
+    "Hits": 208,
+    "Year": 1937,
+    "Bats": "L",
+    "id": 267
+  },
+  {
+    "Rank": "",
+    "Player": "Johnny Pesky",
+    "AgeThatYear": "27",
+    "Hits": 208,
+    "Year": 1946,
+    "Bats": "L",
+    "id": 268
+  },
+  {
+    "Rank": "",
+    "Player": "Vada Pinson",
+    "AgeThatYear": "22",
+    "Hits": 208,
+    "Year": 1961,
+    "Bats": "L",
+    "id": 269
+  },
+  {
+    "Rank": "",
+    "Player": "Frank Robinson",
+    "AgeThatYear": "26",
+    "Hits": 208,
+    "Year": 1962,
+    "Bats": "R",
+    "id": 270
+  },
+  {
+    "Rank": "",
+    "Player": "Pete Rose",
+    "AgeThatYear": "38",
+    "Hits": 208,
+    "Year": 1979,
+    "Bats": "B",
+    "id": 271
+  },
+  {
+    "Rank": "",
+    "Player": "George Stone",
+    "AgeThatYear": "29",
+    "Hits": 208,
+    "Year": 1906,
+    "Bats": "L",
+    "id": 272
+  },
+  {
+    "Rank": "",
+    "Player": "Ichiro Suzuki",
+    "AgeThatYear": "28",
+    "Hits": 208,
+    "Year": 2002,
+    "Bats": "L",
+    "id": 273
+  },
+  {
+    "Rank": "",
+    "Player": "Pie Traynor",
+    "AgeThatYear": "24",
+    "Hits": 208,
+    "Year": 1923,
+    "Bats": "R",
+    "id": 274
+  },
+  {
+    "Rank": "",
+    "Player": "Larry Walker",
+    "AgeThatYear": "30",
+    "Hits": 208,
+    "Year": 1997,
+    "Bats": "L",
+    "id": 275
+  },
+  {
+    "Rank": "",
+    "Player": "Buck Weaver",
+    "AgeThatYear": "29",
+    "Hits": 208,
+    "Year": 1920,
+    "Bats": "B",
+    "id": 276
+  },
+  {
+    "Rank": "",
+    "Player": "Maury Wills",
+    "AgeThatYear": "29",
+    "Hits": 208,
+    "Year": 1962,
+    "Bats": "B",
+    "id": 277
+  },
+  {
+    "Rank": "",
+    "Player": "Hack Wilson",
+    "AgeThatYear": "30",
+    "Hits": 208,
+    "Year": 1930,
+    "Bats": "R",
+    "id": 278
+  },
+  {
+    "Rank": "279",
+    "Player": "Wade Boggs",
+    "AgeThatYear": "28",
+    "Hits": 207,
+    "Year": 1986,
+    "Bats": "L",
+    "id": 279
+  },
+  {
+    "Rank": "",
+    "Player": "Max Carey",
+    "AgeThatYear": "32",
+    "Hits": 207,
+    "Year": 1922,
+    "Bats": "B",
+    "id": 280
+  },
+  {
+    "Rank": "",
+    "Player": "Starlin Castro",
+    "AgeThatYear": "21",
+    "Hits": 207,
+    "Year": 2011,
+    "Bats": "R",
+    "id": 281
+  },
+  {
+    "Rank": "",
+    "Player": "Bob Dillinger",
+    "AgeThatYear": "29",
+    "Hits": 207,
+    "Year": 1948,
+    "Bats": "R",
+    "id": 282
+  },
+  {
+    "Rank": "",
+    "Player": "Marquis Grissom",
+    "AgeThatYear": "29",
+    "Hits": 207,
+    "Year": 1996,
+    "Bats": "R",
+    "id": 283
+  },
+  {
+    "Rank": "",
+    "Player": "Don Mattingly",
+    "AgeThatYear": "23",
+    "Hits": 207,
+    "Year": 1984,
+    "Bats": "L",
+    "id": 284
+  },
+  {
+    "Rank": "",
+    "Player": "Stan Musial",
+    "AgeThatYear": "28",
+    "Hits": 207,
+    "Year": 1949,
+    "Bats": "L",
+    "id": 285
+  },
+  {
+    "Rank": "",
+    "Player": "Johnny Pesky",
+    "AgeThatYear": "28",
+    "Hits": 207,
+    "Year": 1947,
+    "Bats": "L",
+    "id": 286
+  },
+  {
+    "Rank": "",
+    "Player": "Kirby Puckett",
+    "AgeThatYear": "27",
+    "Hits": 207,
+    "Year": 1987,
+    "Bats": "R",
+    "id": 287
+  },
+  {
+    "Rank": "",
+    "Player": "Rip Radcliff",
+    "AgeThatYear": "30",
+    "Hits": 207,
+    "Year": 1936,
+    "Bats": "L",
+    "id": 288
+  },
+  {
+    "Rank": "",
+    "Player": "Sam Rice",
+    "AgeThatYear": "40",
+    "Hits": 207,
+    "Year": 1930,
+    "Bats": "L",
+    "id": 289
+  },
+  {
+    "Rank": "",
+    "Player": "Kevin Seitzer",
+    "AgeThatYear": "25",
+    "Hits": 207,
+    "Year": 1987,
+    "Bats": "R",
+    "id": 290
+  },
+  {
+    "Rank": "",
+    "Player": "B.J. Surhoff",
+    "AgeThatYear": "34",
+    "Hits": 207,
+    "Year": 1999,
+    "Bats": "L",
+    "id": 291
+  },
+  {
+    "Rank": "",
+    "Player": "Jack Tobin",
+    "AgeThatYear": "30",
+    "Hits": 207,
+    "Year": 1922,
+    "Bats": "L",
+    "id": 292
+  },
+  {
+    "Rank": "",
+    "Player": "Mo Vaughn",
+    "AgeThatYear": "28",
+    "Hits": 207,
+    "Year": 1996,
+    "Bats": "L",
+    "id": 293
+  },
+  {
+    "Rank": "",
+    "Player": "Bobby Veach",
+    "AgeThatYear": "33",
+    "Hits": 207,
+    "Year": 1921,
+    "Bats": "L",
+    "id": 294
+  },
+  {
+    "Rank": "",
+    "Player": "Mickey Vernon",
+    "AgeThatYear": "28",
+    "Hits": 207,
+    "Year": 1946,
+    "Bats": "L",
+    "id": 295
+  },
+  {
+    "Rank": "",
+    "Player": "Pinky Whitney",
+    "AgeThatYear": "25",
+    "Hits": 207,
+    "Year": 1930,
+    "Bats": "R",
+    "id": 296
+  },
+  {
+    "Rank": "",
+    "Player": "Heinie Zimmerman",
+    "AgeThatYear": "25",
+    "Hits": 207,
+    "Year": 1912,
+    "Bats": "R",
+    "id": 297
+  },
+  {
+    "Rank": "298",
+    "Player": "Rich Aurilia",
+    "AgeThatYear": "29",
+    "Hits": 206,
+    "Year": 2001,
+    "Bats": "R",
+    "id": 298
+  },
+  {
+    "Rank": "",
+    "Player": "Bret Boone",
+    "AgeThatYear": "32",
+    "Hits": 206,
+    "Year": 2001,
+    "Bats": "R",
+    "id": 299
+  },
+  {
+    "Rank": "",
+    "Player": "Lou Brock",
+    "AgeThatYear": "28",
+    "Hits": 206,
+    "Year": 1967,
+    "Bats": "L",
+    "id": 300
+  },
+  {
+    "Rank": "",
+    "Player": "Dave Cash",
+    "AgeThatYear": "26",
+    "Hits": 206,
+    "Year": 1974,
+    "Bats": "R",
+    "id": 301
+  },
+  {
+    "Rank": "",
+    "Player": "Vinny Castilla",
+    "AgeThatYear": "30",
+    "Hits": 206,
+    "Year": 1998,
+    "Bats": "R",
+    "id": 302
+  },
+  {
+    "Rank": "",
+    "Player": "Fred Clarke",
+    "AgeThatYear": "26",
+    "Hits": 206,
+    "Year": 1899,
+    "Bats": "L",
+    "id": 303
+  },
+  {
+    "Rank": "",
+    "Player": "Joe DiMaggio",
+    "AgeThatYear": "21",
+    "Hits": 206,
+    "Year": 1936,
+    "Bats": "R",
+    "id": 304
+  },
+  {
+    "Rank": "",
+    "Player": "Taylor Douthit",
+    "AgeThatYear": "28",
+    "Hits": 206,
+    "Year": 1929,
+    "Bats": "R",
+    "id": 305
+  },
+  {
+    "Rank": "",
+    "Player": "Johnny Frederick",
+    "AgeThatYear": "27",
+    "Hits": 206,
+    "Year": 1929,
+    "Bats": "L",
+    "id": 306
+  },
+  {
+    "Rank": "",
+    "Player": "Johnny Frederick",
+    "AgeThatYear": "28",
+    "Hits": 206,
+    "Year": 1930,
+    "Bats": "L",
+    "id": 307
+  },
+  {
+    "Rank": "",
+    "Player": "Luis Gonzalez",
+    "AgeThatYear": "31",
+    "Hits": 206,
+    "Year": 1999,
+    "Bats": "L",
+    "id": 308
+  },
+  {
+    "Rank": "",
+    "Player": "Vladimir Guerrero",
+    "AgeThatYear": "27",
+    "Hits": 206,
+    "Year": 2002,
+    "Bats": "R",
+    "id": 309
+  },
+  {
+    "Rank": "",
+    "Player": "Vladimir Guerrero",
+    "AgeThatYear": "29",
+    "Hits": 206,
+    "Year": 2004,
+    "Bats": "R",
+    "id": 310
+  },
+  {
+    "Rank": "",
+    "Player": "Billy Herman",
+    "AgeThatYear": "22",
+    "Hits": 206,
+    "Year": 1932,
+    "Bats": "R",
+    "id": 311
+  },
+  {
+    "Rank": "",
+    "Player": "Derek Jeter",
+    "AgeThatYear": "33",
+    "Hits": 206,
+    "Year": 2007,
+    "Bats": "R",
+    "id": 312
+  },
+  {
+    "Rank": "",
+    "Player": "Willie Montanez",
+    "AgeThatYear": "28",
+    "Hits": 206,
+    "Year": 1976,
+    "Bats": "L",
+    "id": 313
+  },
+  {
+    "Rank": "",
+    "Player": "Jim Rice",
+    "AgeThatYear": "24",
+    "Hits": 206,
+    "Year": 1977,
+    "Bats": "R",
+    "id": 314
+  },
+  {
+    "Rank": "",
+    "Player": "Lance Richbourg",
+    "AgeThatYear": "30",
+    "Hits": 206,
+    "Year": 1928,
+    "Bats": "L",
+    "id": 315
+  },
+  {
+    "Rank": "",
+    "Player": "Ichiro Suzuki",
+    "AgeThatYear": "31",
+    "Hits": 206,
+    "Year": 2005,
+    "Bats": "L",
+    "id": 316
+  },
+  {
+    "Rank": "",
+    "Player": "Mike Sweeney",
+    "AgeThatYear": "26",
+    "Hits": 206,
+    "Year": 2000,
+    "Bats": "R",
+    "id": 317
+  },
+  {
+    "Rank": "",
+    "Player": "Hal Trosky",
+    "AgeThatYear": "21",
+    "Hits": 206,
+    "Year": 1934,
+    "Bats": "L",
+    "id": 318
+  },
+  {
+    "Rank": "",
+    "Player": "Lou Whitaker",
+    "AgeThatYear": "26",
+    "Hits": 206,
+    "Year": 1983,
+    "Bats": "L",
+    "id": 319
+  },
+  {
+    "Rank": "320",
+    "Player": "Richie Ashburn",
+    "AgeThatYear": "26",
+    "Hits": 205,
+    "Year": 1953,
+    "Bats": "L",
+    "id": 320
+  },
+  {
+    "Rank": "",
+    "Player": "Carlos Baerga",
+    "AgeThatYear": "23",
+    "Hits": 205,
+    "Year": 1992,
+    "Bats": "B",
+    "id": 321
+  },
+  {
+    "Rank": "",
+    "Player": "Wade Boggs",
+    "AgeThatYear": "31",
+    "Hits": 205,
+    "Year": 1989,
+    "Bats": "L",
+    "id": 322
+  },
+  {
+    "Rank": "",
+    "Player": "Al Bumbry",
+    "AgeThatYear": "33",
+    "Hits": 205,
+    "Year": 1980,
+    "Bats": "L",
+    "id": 323
+  },
+  {
+    "Rank": "",
+    "Player": "Miguel Cabrera",
+    "AgeThatYear": "29",
+    "Hits": 205,
+    "Year": 2012,
+    "Bats": "R",
+    "id": 324
+  },
+  {
+    "Rank": "",
+    "Player": "Fred Clarke",
+    "AgeThatYear": "24",
+    "Hits": 205,
+    "Year": 1897,
+    "Bats": "L",
+    "id": 325
+  },
+  {
+    "Rank": "",
+    "Player": "Cecil Cooper",
+    "AgeThatYear": "32",
+    "Hits": 205,
+    "Year": 1982,
+    "Bats": "L",
+    "id": 326
+  },
+  {
+    "Rank": "",
+    "Player": "Jake Daubert",
+    "AgeThatYear": "38",
+    "Hits": 205,
+    "Year": 1922,
+    "Bats": "L",
+    "id": 327
+  },
+  {
+    "Rank": "",
+    "Player": "Lou Gehrig",
+    "AgeThatYear": "33",
+    "Hits": 205,
+    "Year": 1936,
+    "Bats": "L",
+    "id": 328
+  },
+  {
+    "Rank": "",
+    "Player": "Jack Glasscock",
+    "AgeThatYear": "31",
+    "Hits": 205,
+    "Year": 1889,
+    "Bats": "R",
+    "id": 329
+  },
+  {
+    "Rank": "",
+    "Player": "Dee Gordon",
+    "AgeThatYear": "27",
+    "Hits": 205,
+    "Year": 2015,
+    "Bats": "L",
+    "id": 330
+  },
+  {
+    "Rank": "",
+    "Player": "Rogers Hornsby",
+    "AgeThatYear": "31",
+    "Hits": 205,
+    "Year": 1927,
+    "Bats": "R",
+    "id": 331
+  },
+  {
+    "Rank": "",
+    "Player": "Jo-Jo Moore",
+    "AgeThatYear": "27",
+    "Hits": 205,
+    "Year": 1936,
+    "Bats": "L",
+    "id": 332
+  },
+  {
+    "Rank": "",
+    "Player": "Stan Musial",
+    "AgeThatYear": "30",
+    "Hits": 205,
+    "Year": 1951,
+    "Bats": "L",
+    "id": 333
+  },
+  {
+    "Rank": "",
+    "Player": "Johnny Pesky",
+    "AgeThatYear": "23",
+    "Hits": 205,
+    "Year": 1942,
+    "Bats": "L",
+    "id": 334
+  },
+  {
+    "Rank": "",
+    "Player": "Vada Pinson",
+    "AgeThatYear": "20",
+    "Hits": 205,
+    "Year": 1959,
+    "Bats": "L",
+    "id": 335
+  },
+  {
+    "Rank": "",
+    "Player": "Pete Rose",
+    "AgeThatYear": "25",
+    "Hits": 205,
+    "Year": 1966,
+    "Bats": "B",
+    "id": 336
+  },
+  {
+    "Rank": "",
+    "Player": "Pete Rose",
+    "AgeThatYear": "29",
+    "Hits": 205,
+    "Year": 1970,
+    "Bats": "B",
+    "id": 337
+  },
+  {
+    "Rank": "",
+    "Player": "Babe Ruth",
+    "AgeThatYear": "28",
+    "Hits": 205,
+    "Year": 1923,
+    "Bats": "L",
+    "id": 338
+  },
+  {
+    "Rank": "",
+    "Player": "Steve Sax",
+    "AgeThatYear": "29",
+    "Hits": 205,
+    "Year": 1989,
+    "Bats": "R",
+    "id": 339
+  },
+  {
+    "Rank": "",
+    "Player": "George Sisler",
+    "AgeThatYear": "36",
+    "Hits": 205,
+    "Year": 1929,
+    "Bats": "L",
+    "id": 340
+  },
+  {
+    "Rank": "",
+    "Player": "Snuffy Stirnweiss",
+    "AgeThatYear": "25",
+    "Hits": 205,
+    "Year": 1944,
+    "Bats": "R",
+    "id": 341
+  },
+  {
+    "Rank": "",
+    "Player": "Alan Trammell",
+    "AgeThatYear": "29",
+    "Hits": 205,
+    "Year": 1987,
+    "Bats": "R",
+    "id": 342
+  },
+  {
+    "Rank": "",
+    "Player": "Mo Vaughn",
+    "AgeThatYear": "30",
+    "Hits": 205,
+    "Year": 1998,
+    "Bats": "L",
+    "id": 343
+  },
+  {
+    "Rank": "",
+    "Player": "Mickey Vernon",
+    "AgeThatYear": "35",
+    "Hits": 205,
+    "Year": 1953,
+    "Bats": "L",
+    "id": 344
+  },
+  {
+    "Rank": "",
+    "Player": "Billy Williams",
+    "AgeThatYear": "32",
+    "Hits": 205,
+    "Year": 1970,
+    "Bats": "L",
+    "id": 345
+  },
+  {
+    "Rank": "346",
+    "Player": "Jose Altuve",
+    "AgeThatYear": "27",
+    "Hits": 204,
+    "Year": 2017,
+    "Bats": "R",
+    "id": 346
+  },
+  {
+    "Rank": "",
+    "Player": "Luke Appling",
+    "AgeThatYear": "29",
+    "Hits": 204,
+    "Year": 1936,
+    "Bats": "R",
+    "id": 347
+  },
+  {
+    "Rank": "",
+    "Player": "Carson Bigbee",
+    "AgeThatYear": "26",
+    "Hits": 204,
+    "Year": 1921,
+    "Bats": "L",
+    "id": 348
+  },
+  {
+    "Rank": "",
+    "Player": "Robinson Cano",
+    "AgeThatYear": "26",
+    "Hits": 204,
+    "Year": 2009,
+    "Bats": "L",
+    "id": 349
+  },
+  {
+    "Rank": "",
+    "Player": "Jimmie Foxx",
+    "AgeThatYear": "25",
+    "Hits": 204,
+    "Year": 1933,
+    "Bats": "R",
+    "id": 350
+  },
+  {
+    "Rank": "",
+    "Player": "Steve Garvey",
+    "AgeThatYear": "30",
+    "Hits": 204,
+    "Year": 1979,
+    "Bats": "R",
+    "id": 351
+  },
+  {
+    "Rank": "",
+    "Player": "Charlie Gehringer",
+    "AgeThatYear": "30",
+    "Hits": 204,
+    "Year": 1933,
+    "Bats": "L",
+    "id": 352
+  },
+  {
+    "Rank": "",
+    "Player": "Doug Glanville",
+    "AgeThatYear": "28",
+    "Hits": 204,
+    "Year": 1999,
+    "Bats": "R",
+    "id": 353
+  },
+  {
+    "Rank": "",
+    "Player": "Hughie Jennings",
+    "AgeThatYear": "26",
+    "Hits": 204,
+    "Year": 1895,
+    "Bats": "R",
+    "id": 354
+  },
+  {
+    "Rank": "",
+    "Player": "Willie Keeler",
+    "AgeThatYear": "28",
+    "Hits": 204,
+    "Year": 1900,
+    "Bats": "L",
+    "id": 355
+  },
+  {
+    "Rank": "",
+    "Player": "Heinie Manush",
+    "AgeThatYear": "27",
+    "Hits": 204,
+    "Year": 1929,
+    "Bats": "L",
+    "id": 356
+  },
+  {
+    "Rank": "",
+    "Player": "Irish Meusel",
+    "AgeThatYear": "29",
+    "Hits": 204,
+    "Year": 1922,
+    "Bats": "R",
+    "id": 357
+  },
+  {
+    "Rank": "",
+    "Player": "Dale Mitchell",
+    "AgeThatYear": "26",
+    "Hits": 204,
+    "Year": 1948,
+    "Bats": "L",
+    "id": 358
+  },
+  {
+    "Rank": "",
+    "Player": "Johnny Mize",
+    "AgeThatYear": "24",
+    "Hits": 204,
+    "Year": 1937,
+    "Bats": "L",
+    "id": 359
+  },
+  {
+    "Rank": "",
+    "Player": "Ed Morgan",
+    "AgeThatYear": "26",
+    "Hits": 204,
+    "Year": 1930,
+    "Bats": "R",
+    "id": 360
+  },
+  {
+    "Rank": "",
+    "Player": "Tony Oliva",
+    "AgeThatYear": "31",
+    "Hits": 204,
+    "Year": 1970,
+    "Bats": "L",
+    "id": 361
+  },
+  {
+    "Rank": "",
+    "Player": "Al Oliver",
+    "AgeThatYear": "35",
+    "Hits": 204,
+    "Year": 1982,
+    "Bats": "L",
+    "id": 362
+  },
+  {
+    "Rank": "",
+    "Player": "Juan Pierre",
+    "AgeThatYear": "25",
+    "Hits": 204,
+    "Year": 2003,
+    "Bats": "L",
+    "id": 363
+  },
+  {
+    "Rank": "",
+    "Player": "Juan Pierre",
+    "AgeThatYear": "28",
+    "Hits": 204,
+    "Year": 2006,
+    "Bats": "L",
+    "id": 364
+  },
+  {
+    "Rank": "",
+    "Player": "Vada Pinson",
+    "AgeThatYear": "24",
+    "Hits": 204,
+    "Year": 1963,
+    "Bats": "L",
+    "id": 365
+  },
+  {
+    "Rank": "",
+    "Player": "Vada Pinson",
+    "AgeThatYear": "26",
+    "Hits": 204,
+    "Year": 1965,
+    "Bats": "L",
+    "id": 366
+  },
+  {
+    "Rank": "",
+    "Player": "Jose Reyes",
+    "AgeThatYear": "25",
+    "Hits": 204,
+    "Year": 2008,
+    "Bats": "B",
+    "id": 367
+  },
+  {
+    "Rank": "",
+    "Player": "Pete Rose",
+    "AgeThatYear": "36",
+    "Hits": 204,
+    "Year": 1977,
+    "Bats": "B",
+    "id": 368
+  },
+  {
+    "Rank": "",
+    "Player": "Babe Ruth",
+    "AgeThatYear": "26",
+    "Hits": 204,
+    "Year": 1921,
+    "Bats": "L",
+    "id": 369
+  },
+  {
+    "Rank": "",
+    "Player": "Joe Sewell",
+    "AgeThatYear": "26",
+    "Hits": 204,
+    "Year": 1925,
+    "Bats": "L",
+    "id": 370
+  },
+  {
+    "Rank": "",
+    "Player": "Milt Stock",
+    "AgeThatYear": "26",
+    "Hits": 204,
+    "Year": 1920,
+    "Bats": "R",
+    "id": 371
+  },
+  {
+    "Rank": "",
+    "Player": "Bill Sweeney",
+    "AgeThatYear": "26",
+    "Hits": 204,
+    "Year": 1912,
+    "Bats": "R",
+    "id": 372
+  },
+  {
+    "Rank": "",
+    "Player": "Miguel Tejada",
+    "AgeThatYear": "28",
+    "Hits": 204,
+    "Year": 2002,
+    "Bats": "R",
+    "id": 373
+  },
+  {
+    "Rank": "",
+    "Player": "Cesar Tovar",
+    "AgeThatYear": "30",
+    "Hits": 204,
+    "Year": 1971,
+    "Bats": "R",
+    "id": 374
+  },
+  {
+    "Rank": "",
+    "Player": "George Van Haltren",
+    "AgeThatYear": "32",
+    "Hits": 204,
+    "Year": 1898,
+    "Bats": "L",
+    "id": 375
+  },
+  {
+    "Rank": "",
+    "Player": "Bernie Williams",
+    "AgeThatYear": "33",
+    "Hits": 204,
+    "Year": 2002,
+    "Bats": "B",
+    "id": 376
+  },
+  {
+    "Rank": "",
+    "Player": "Michael Young",
+    "AgeThatYear": "26",
+    "Hits": 204,
+    "Year": 2003,
+    "Bats": "R",
+    "id": 377
+  },
+  {
+    "Rank": "",
+    "Player": "Ross Youngs",
+    "AgeThatYear": "23",
+    "Hits": 204,
+    "Year": 1920,
+    "Bats": "L",
+    "id": 378
+  },
+  {
+    "Rank": "379",
+    "Player": "Wade Boggs",
+    "AgeThatYear": "26",
+    "Hits": 203,
+    "Year": 1984,
+    "Bats": "L",
+    "id": 379
+  },
+  {
+    "Rank": "",
+    "Player": "Ryan Braun",
+    "AgeThatYear": "25",
+    "Hits": 203,
+    "Year": 2009,
+    "Bats": "R",
+    "id": 380
+  },
+  {
+    "Rank": "",
+    "Player": "Jesse Burkett",
+    "AgeThatYear": "31",
+    "Hits": 203,
+    "Year": 1900,
+    "Bats": "L",
+    "id": 381
+  },
+  {
+    "Rank": "",
+    "Player": "Rod Carew",
+    "AgeThatYear": "27",
+    "Hits": 203,
+    "Year": 1973,
+    "Bats": "L",
+    "id": 382
+  },
+  {
+    "Rank": "",
+    "Player": "Earle Combs",
+    "AgeThatYear": "26",
+    "Hits": 203,
+    "Year": 1925,
+    "Bats": "L",
+    "id": 383
+  },
+  {
+    "Rank": "",
+    "Player": "Cecil Cooper",
+    "AgeThatYear": "33",
+    "Hits": 203,
+    "Year": 1983,
+    "Bats": "L",
+    "id": 384
+  },
+  {
+    "Rank": "",
+    "Player": "Joe Cronin",
+    "AgeThatYear": "23",
+    "Hits": 203,
+    "Year": 1930,
+    "Bats": "R",
+    "id": 385
+  },
+  {
+    "Rank": "",
+    "Player": "Hugh Duffy",
+    "AgeThatYear": "26",
+    "Hits": 203,
+    "Year": 1893,
+    "Bats": "R",
+    "id": 386
+  },
+  {
+    "Rank": "",
+    "Player": "Augie Galan",
+    "AgeThatYear": "23",
+    "Hits": 203,
+    "Year": 1935,
+    "Bats": "B",
+    "id": 387
+  },
+  {
+    "Rank": "",
+    "Player": "Hank Greenberg",
+    "AgeThatYear": "24",
+    "Hits": 203,
+    "Year": 1935,
+    "Bats": "R",
+    "id": 388
+  },
+  {
+    "Rank": "",
+    "Player": "Tony Gwynn",
+    "AgeThatYear": "29",
+    "Hits": 203,
+    "Year": 1989,
+    "Bats": "L",
+    "id": 389
+  },
+  {
+    "Rank": "",
+    "Player": "Rogers Hornsby",
+    "AgeThatYear": "29",
+    "Hits": 203,
+    "Year": 1925,
+    "Bats": "R",
+    "id": 390
+  },
+  {
+    "Rank": "",
+    "Player": "Woody Jensen",
+    "AgeThatYear": "27",
+    "Hits": 203,
+    "Year": 1935,
+    "Bats": "L",
+    "id": 391
+  },
+  {
+    "Rank": "",
+    "Player": "Derek Jeter",
+    "AgeThatYear": "24",
+    "Hits": 203,
+    "Year": 1998,
+    "Bats": "R",
+    "id": 392
+  },
+  {
+    "Rank": "",
+    "Player": "Jimmy Johnston",
+    "AgeThatYear": "31",
+    "Hits": 203,
+    "Year": 1921,
+    "Bats": "R",
+    "id": 393
+  },
+  {
+    "Rank": "",
+    "Player": "Jimmy Johnston",
+    "AgeThatYear": "33",
+    "Hits": 203,
+    "Year": 1923,
+    "Bats": "R",
+    "id": 394
+  },
+  {
+    "Rank": "",
+    "Player": "Hank Leiber",
+    "AgeThatYear": "24",
+    "Hits": 203,
+    "Year": 1935,
+    "Bats": "R",
+    "id": 395
+  },
+  {
+    "Rank": "",
+    "Player": "Dale Mitchell",
+    "AgeThatYear": "27",
+    "Hits": 203,
+    "Year": 1949,
+    "Bats": "L",
+    "id": 396
+  },
+  {
+    "Rank": "",
+    "Player": "Rafael Palmeiro",
+    "AgeThatYear": "26",
+    "Hits": 203,
+    "Year": 1991,
+    "Bats": "L",
+    "id": 397
+  },
+  {
+    "Rank": "",
+    "Player": "Jackie Robinson",
+    "AgeThatYear": "30",
+    "Hits": 203,
+    "Year": 1949,
+    "Bats": "R",
+    "id": 398
+  },
+  {
+    "Rank": "",
+    "Player": "Jean Segura",
+    "AgeThatYear": "26",
+    "Hits": 203,
+    "Year": 2016,
+    "Bats": "R",
+    "id": 399
+  },
+  {
+    "Rank": "",
+    "Player": "Ruben Sierra",
+    "AgeThatYear": "25",
+    "Hits": 203,
+    "Year": 1991,
+    "Bats": "B",
+    "id": 400
+  },
+  {
+    "Rank": "",
+    "Player": "Stan Spence",
+    "AgeThatYear": "27",
+    "Hits": 203,
+    "Year": 1942,
+    "Bats": "L",
+    "id": 401
+  },
+  {
+    "Rank": "",
+    "Player": "Miguel Tejada",
+    "AgeThatYear": "30",
+    "Hits": 203,
+    "Year": 2004,
+    "Bats": "R",
+    "id": 402
+  },
+  {
+    "Rank": "",
+    "Player": "Bill Terry",
+    "AgeThatYear": "36",
+    "Hits": 203,
+    "Year": 1935,
+    "Bats": "L",
+    "id": 403
+  },
+  {
+    "Rank": "",
+    "Player": "Sam Thompson",
+    "AgeThatYear": "27",
+    "Hits": 203,
+    "Year": 1887,
+    "Bats": "L",
+    "id": 404
+  },
+  {
+    "Rank": "",
+    "Player": "Joe Torre",
+    "AgeThatYear": "29",
+    "Hits": 203,
+    "Year": 1970,
+    "Bats": "R",
+    "id": 405
+  },
+  {
+    "Rank": "",
+    "Player": "Chase Utley",
+    "AgeThatYear": "27",
+    "Hits": 203,
+    "Year": 2006,
+    "Bats": "L",
+    "id": 406
+  },
+  {
+    "Rank": "",
+    "Player": "Billy Williams",
+    "AgeThatYear": "27",
+    "Hits": 203,
+    "Year": 1965,
+    "Bats": "L",
+    "id": 407
+  },
+  {
+    "Rank": "408",
+    "Player": "Lou Brock",
+    "AgeThatYear": "31",
+    "Hits": 202,
+    "Year": 1970,
+    "Bats": "L",
+    "id": 408
+  },
+  {
+    "Rank": "",
+    "Player": "Roberto Clemente",
+    "AgeThatYear": "31",
+    "Hits": 202,
+    "Year": 1966,
+    "Bats": "R",
+    "id": 409
+  },
+  {
+    "Rank": "",
+    "Player": "Earle Combs",
+    "AgeThatYear": "30",
+    "Hits": 202,
+    "Year": 1929,
+    "Bats": "L",
+    "id": 410
+  },
+  {
+    "Rank": "",
+    "Player": "Doc Cramer",
+    "AgeThatYear": "28",
+    "Hits": 202,
+    "Year": 1934,
+    "Bats": "L",
+    "id": 411
+  },
+  {
+    "Rank": "",
+    "Player": "Kiki Cuyler",
+    "AgeThatYear": "32",
+    "Hits": 202,
+    "Year": 1931,
+    "Bats": "R",
+    "id": 412
+  },
+  {
+    "Rank": "",
+    "Player": "Woody English",
+    "AgeThatYear": "25",
+    "Hits": 202,
+    "Year": 1931,
+    "Bats": "R",
+    "id": 413
+  },
+  {
+    "Rank": "",
+    "Player": "Steve Garvey",
+    "AgeThatYear": "29",
+    "Hits": 202,
+    "Year": 1978,
+    "Bats": "R",
+    "id": 414
+  },
+  {
+    "Rank": "",
+    "Player": "Vladimir Guerrero",
+    "AgeThatYear": "23",
+    "Hits": 202,
+    "Year": 1998,
+    "Bats": "R",
+    "id": 415
+  },
+  {
+    "Rank": "",
+    "Player": "Shoeless Joe Jackson",
+    "AgeThatYear": "28",
+    "Hits": 202,
+    "Year": 1916,
+    "Bats": "L",
+    "id": 416
+  },
+  {
+    "Rank": "",
+    "Player": "Derek Jeter",
+    "AgeThatYear": "31",
+    "Hits": 202,
+    "Year": 2005,
+    "Bats": "R",
+    "id": 417
+  },
+  {
+    "Rank": "",
+    "Player": "Alex Johnson",
+    "AgeThatYear": "27",
+    "Hits": 202,
+    "Year": 1970,
+    "Bats": "R",
+    "id": 418
+  },
+  {
+    "Rank": "",
+    "Player": "Willie Keeler",
+    "AgeThatYear": "29",
+    "Hits": 202,
+    "Year": 1901,
+    "Bats": "L",
+    "id": 419
+  },
+  {
+    "Rank": "",
+    "Player": "Bill Lamar",
+    "AgeThatYear": "28",
+    "Hits": 202,
+    "Year": 1925,
+    "Bats": "L",
+    "id": 420
+  },
+  {
+    "Rank": "",
+    "Player": "Wally Moses",
+    "AgeThatYear": "25",
+    "Hits": 202,
+    "Year": 1936,
+    "Bats": "L",
+    "id": 421
+  },
+  {
+    "Rank": "",
+    "Player": "Lefty O'Doul",
+    "AgeThatYear": "33",
+    "Hits": 202,
+    "Year": 1930,
+    "Bats": "L",
+    "id": 422
+  },
+  {
+    "Rank": "",
+    "Player": "Juan Pierre",
+    "AgeThatYear": "23",
+    "Hits": 202,
+    "Year": 2001,
+    "Bats": "L",
+    "id": 423
+  },
+  {
+    "Rank": "",
+    "Player": "Carl Reynolds",
+    "AgeThatYear": "27",
+    "Hits": 202,
+    "Year": 1930,
+    "Bats": "R",
+    "id": 424
+  },
+  {
+    "Rank": "",
+    "Player": "Sam Rice",
+    "AgeThatYear": "38",
+    "Hits": 202,
+    "Year": 1928,
+    "Bats": "L",
+    "id": 425
+  },
+  {
+    "Rank": "",
+    "Player": "Chick Stahl",
+    "AgeThatYear": "26",
+    "Hits": 202,
+    "Year": 1899,
+    "Bats": "L",
+    "id": 426
+  },
+  {
+    "Rank": "",
+    "Player": "Shannon Stewart",
+    "AgeThatYear": "27",
+    "Hits": 202,
+    "Year": 2001,
+    "Bats": "R",
+    "id": 427
+  },
+  {
+    "Rank": "",
+    "Player": "Milt Stock",
+    "AgeThatYear": "31",
+    "Hits": 202,
+    "Year": 1925,
+    "Bats": "R",
+    "id": 428
+  },
+  {
+    "Rank": "",
+    "Player": "Fresco Thompson",
+    "AgeThatYear": "27",
+    "Hits": 202,
+    "Year": 1929,
+    "Bats": "R",
+    "id": 429
+  },
+  {
+    "Rank": "",
+    "Player": "Jack Tobin",
+    "AgeThatYear": "28",
+    "Hits": 202,
+    "Year": 1920,
+    "Bats": "L",
+    "id": 430
+  },
+  {
+    "Rank": "",
+    "Player": "Jack Tobin",
+    "AgeThatYear": "31",
+    "Hits": 202,
+    "Year": 1923,
+    "Bats": "L",
+    "id": 431
+  },
+  {
+    "Rank": "",
+    "Player": "Bobby Veach",
+    "AgeThatYear": "34",
+    "Hits": 202,
+    "Year": 1922,
+    "Bats": "L",
+    "id": 432
+  },
+  {
+    "Rank": "",
+    "Player": "Bernie Williams",
+    "AgeThatYear": "30",
+    "Hits": 202,
+    "Year": 1999,
+    "Bats": "B",
+    "id": 433
+  },
+  {
+    "Rank": "434",
+    "Player": "Hank Aaron",
+    "AgeThatYear": "29",
+    "Hits": 201,
+    "Year": 1963,
+    "Bats": "R",
+    "id": 434
+  },
+  {
+    "Rank": "",
+    "Player": "Dick Allen",
+    "AgeThatYear": "22",
+    "Hits": 201,
+    "Year": 1964,
+    "Bats": "R",
+    "id": 435
+  },
+  {
+    "Rank": "",
+    "Player": "Matty Alou",
+    "AgeThatYear": "31",
+    "Hits": 201,
+    "Year": 1970,
+    "Bats": "L",
+    "id": 436
+  },
+  {
+    "Rank": "",
+    "Player": "Garret Anderson",
+    "AgeThatYear": "31",
+    "Hits": 201,
+    "Year": 2003,
+    "Bats": "L",
+    "id": 437
+  },
+  {
+    "Rank": "",
+    "Player": "Eddie Brown",
+    "AgeThatYear": "34",
+    "Hits": 201,
+    "Year": 1926,
+    "Bats": "R",
+    "id": 438
+  },
+  {
+    "Rank": "",
+    "Player": "Bill Buckner",
+    "AgeThatYear": "32",
+    "Hits": 201,
+    "Year": 1982,
+    "Bats": "L",
+    "id": 439
+  },
+  {
+    "Rank": "",
+    "Player": "Bill Buckner",
+    "AgeThatYear": "35",
+    "Hits": 201,
+    "Year": 1985,
+    "Bats": "L",
+    "id": 440
+  },
+  {
+    "Rank": "",
+    "Player": "Melky Cabrera",
+    "AgeThatYear": "26",
+    "Hits": 201,
+    "Year": 2011,
+    "Bats": "B",
+    "id": 441
+  },
+  {
+    "Rank": "",
+    "Player": "Roberto Clemente",
+    "AgeThatYear": "26",
+    "Hits": 201,
+    "Year": 1961,
+    "Bats": "R",
+    "id": 442
+  },
+  {
+    "Rank": "",
+    "Player": "Ty Cobb",
+    "AgeThatYear": "29",
+    "Hits": 201,
+    "Year": 1916,
+    "Bats": "L",
+    "id": 443
+  },
+  {
+    "Rank": "",
+    "Player": "Taylor Douthit",
+    "AgeThatYear": "29",
+    "Hits": 201,
+    "Year": 1930,
+    "Bats": "R",
+    "id": 444
+  },
+  {
+    "Rank": "",
+    "Player": "Nellie Fox",
+    "AgeThatYear": "26",
+    "Hits": 201,
+    "Year": 1954,
+    "Bats": "L",
+    "id": 445
+  },
+  {
+    "Rank": "",
+    "Player": "Julio Franco",
+    "AgeThatYear": "32",
+    "Hits": 201,
+    "Year": 1991,
+    "Bats": "R",
+    "id": 446
+  },
+  {
+    "Rank": "",
+    "Player": "Charlie Gehringer",
+    "AgeThatYear": "27",
+    "Hits": 201,
+    "Year": 1930,
+    "Bats": "L",
+    "id": 447
+  },
+  {
+    "Rank": "",
+    "Player": "Charlie Gehringer",
+    "AgeThatYear": "32",
+    "Hits": 201,
+    "Year": 1935,
+    "Bats": "L",
+    "id": 448
+  },
+  {
+    "Rank": "",
+    "Player": "Dee Gordon",
+    "AgeThatYear": "29",
+    "Hits": 201,
+    "Year": 2017,
+    "Bats": "L",
+    "id": 449
+  },
+  {
+    "Rank": "",
+    "Player": "Goose Goslin",
+    "AgeThatYear": "24",
+    "Hits": 201,
+    "Year": 1925,
+    "Bats": "L",
+    "id": 450
+  },
+  {
+    "Rank": "",
+    "Player": "Goose Goslin",
+    "AgeThatYear": "25",
+    "Hits": 201,
+    "Year": 1926,
+    "Bats": "L",
+    "id": 451
+  },
+  {
+    "Rank": "",
+    "Player": "Hank Greenberg",
+    "AgeThatYear": "23",
+    "Hits": 201,
+    "Year": 1934,
+    "Bats": "R",
+    "id": 452
+  },
+  {
+    "Rank": "",
+    "Player": "Dick Groat",
+    "AgeThatYear": "32",
+    "Hits": 201,
+    "Year": 1963,
+    "Bats": "R",
+    "id": 453
+  },
+  {
+    "Rank": "",
+    "Player": "Mark Grudzielanek",
+    "AgeThatYear": "26",
+    "Hits": 201,
+    "Year": 1996,
+    "Bats": "R",
+    "id": 454
+  },
+  {
+    "Rank": "",
+    "Player": "Billy Hamilton",
+    "AgeThatYear": "29",
+    "Hits": 201,
+    "Year": 1895,
+    "Bats": "L",
+    "id": 455
+  },
+  {
+    "Rank": "",
+    "Player": "Harry Heilmann",
+    "AgeThatYear": "32",
+    "Hits": 201,
+    "Year": 1927,
+    "Bats": "R",
+    "id": 456
+  },
+  {
+    "Rank": "",
+    "Player": "Charlie Hollocher",
+    "AgeThatYear": "26",
+    "Hits": 201,
+    "Year": 1922,
+    "Bats": "L",
+    "id": 457
+  },
+  {
+    "Rank": "",
+    "Player": "Ender Inciarte",
+    "AgeThatYear": "26",
+    "Hits": 201,
+    "Year": 2017,
+    "Bats": "L",
+    "id": 458
+  },
+  {
+    "Rank": "",
+    "Player": "Derek Jeter",
+    "AgeThatYear": "26",
+    "Hits": 201,
+    "Year": 2000,
+    "Bats": "R",
+    "id": 459
+  },
+  {
+    "Rank": "",
+    "Player": "Roy Johnson",
+    "AgeThatYear": "26",
+    "Hits": 201,
+    "Year": 1929,
+    "Bats": "L",
+    "id": 460
+  },
+  {
+    "Rank": "",
+    "Player": "Harvey Kuenn",
+    "AgeThatYear": "23",
+    "Hits": 201,
+    "Year": 1954,
+    "Bats": "R",
+    "id": 461
+  },
+  {
+    "Rank": "",
+    "Player": "Austin McHenry",
+    "AgeThatYear": "25",
+    "Hits": 201,
+    "Year": 1921,
+    "Bats": "R",
+    "id": 462
+  },
+  {
+    "Rank": "",
+    "Player": "Joe Medwick",
+    "AgeThatYear": "27",
+    "Hits": 201,
+    "Year": 1939,
+    "Bats": "R",
+    "id": 463
+  },
+  {
+    "Rank": "",
+    "Player": "Irish Meusel",
+    "AgeThatYear": "28",
+    "Hits": 201,
+    "Year": 1921,
+    "Bats": "R",
+    "id": 464
+  },
+  {
+    "Rank": "",
+    "Player": "Paul Molitor",
+    "AgeThatYear": "25",
+    "Hits": 201,
+    "Year": 1982,
+    "Bats": "R",
+    "id": 465
+  },
+  {
+    "Rank": "",
+    "Player": "Jo-Jo Moore",
+    "AgeThatYear": "26",
+    "Hits": 201,
+    "Year": 1935,
+    "Bats": "L",
+    "id": 466
+  },
+  {
+    "Rank": "",
+    "Player": "Dustin Pedroia",
+    "AgeThatYear": "32",
+    "Hits": 201,
+    "Year": 2016,
+    "Bats": "R",
+    "id": 467
+  },
+  {
+    "Rank": "",
+    "Player": "Mike Piazza",
+    "AgeThatYear": "28",
+    "Hits": 201,
+    "Year": 1997,
+    "Bats": "R",
+    "id": 468
+  },
+  {
+    "Rank": "",
+    "Player": "Jim Rice",
+    "AgeThatYear": "26",
+    "Hits": 201,
+    "Year": 1979,
+    "Bats": "R",
+    "id": 469
+  },
+  {
+    "Rank": "",
+    "Player": "Alex Rodriguez",
+    "AgeThatYear": "25",
+    "Hits": 201,
+    "Year": 2001,
+    "Bats": "R",
+    "id": 470
+  },
+  {
+    "Rank": "",
+    "Player": "Al Rosen",
+    "AgeThatYear": "29",
+    "Hits": 201,
+    "Year": 1953,
+    "Bats": "R",
+    "id": 471
+  },
+  {
+    "Rank": "",
+    "Player": "George Sisler",
+    "AgeThatYear": "34",
+    "Hits": 201,
+    "Year": 1927,
+    "Bats": "L",
+    "id": 472
+  },
+  {
+    "Rank": "",
+    "Player": "Moose Solters",
+    "AgeThatYear": "29",
+    "Hits": 201,
+    "Year": 1935,
+    "Bats": "R",
+    "id": 473
+  },
+  {
+    "Rank": "",
+    "Player": "Joe Vosmik",
+    "AgeThatYear": "28",
+    "Hits": 201,
+    "Year": 1938,
+    "Bats": "R",
+    "id": 474
+  },
+  {
+    "Rank": "",
+    "Player": "Honus Wagner",
+    "AgeThatYear": "26",
+    "Hits": 201,
+    "Year": 1900,
+    "Bats": "R",
+    "id": 475
+  },
+  {
+    "Rank": "",
+    "Player": "Honus Wagner",
+    "AgeThatYear": "34",
+    "Hits": 201,
+    "Year": 1908,
+    "Bats": "R",
+    "id": 476
+  },
+  {
+    "Rank": "",
+    "Player": "Zack Wheat",
+    "AgeThatYear": "34",
+    "Hits": 201,
+    "Year": 1922,
+    "Bats": "L",
+    "id": 477
+  },
+  {
+    "Rank": "",
+    "Player": "Billy Williams",
+    "AgeThatYear": "26",
+    "Hits": 201,
+    "Year": 1964,
+    "Bats": "L",
+    "id": 478
+  },
+  {
+    "Rank": "",
+    "Player": "Jack Wilson",
+    "AgeThatYear": "26",
+    "Hits": 201,
+    "Year": 2004,
+    "Bats": "R",
+    "id": 479
+  },
+  {
+    "Rank": "",
+    "Player": "Michael Young",
+    "AgeThatYear": "30",
+    "Hits": 201,
+    "Year": 2007,
+    "Bats": "R",
+    "id": 480
+  },
+  {
+    "Rank": "481",
+    "Player": "Hank Aaron",
+    "AgeThatYear": "22",
+    "Hits": 200,
+    "Year": 1956,
+    "Bats": "R",
+    "id": 481
+  },
+  {
+    "Rank": "",
+    "Player": "Jose Altuve",
+    "AgeThatYear": "25",
+    "Hits": 200,
+    "Year": 2015,
+    "Bats": "R",
+    "id": 482
+  },
+  {
+    "Rank": "",
+    "Player": "Carlos Baerga",
+    "AgeThatYear": "24",
+    "Hits": 200,
+    "Year": 1993,
+    "Bats": "B",
+    "id": 483
+  },
+  {
+    "Rank": "",
+    "Player": "Home Run Baker",
+    "AgeThatYear": "26",
+    "Hits": 200,
+    "Year": 1912,
+    "Bats": "L",
+    "id": 484
+  },
+  {
+    "Rank": "",
+    "Player": "Buddy Bell",
+    "AgeThatYear": "27",
+    "Hits": 200,
+    "Year": 1979,
+    "Bats": "R",
+    "id": 485
+  },
+  {
+    "Rank": "",
+    "Player": "Albert Belle",
+    "AgeThatYear": "31",
+    "Hits": 200,
+    "Year": 1998,
+    "Bats": "R",
+    "id": 486
+  },
+  {
+    "Rank": "",
+    "Player": "Adrian Beltre",
+    "AgeThatYear": "25",
+    "Hits": 200,
+    "Year": 2004,
+    "Bats": "R",
+    "id": 487
+  },
+  {
+    "Rank": "",
+    "Player": "Wade Boggs",
+    "AgeThatYear": "29",
+    "Hits": 200,
+    "Year": 1987,
+    "Bats": "L",
+    "id": 488
+  },
+  {
+    "Rank": "",
+    "Player": "Bobby Bonds",
+    "AgeThatYear": "24",
+    "Hits": 200,
+    "Year": 1970,
+    "Bats": "R",
+    "id": 489
+  },
+  {
+    "Rank": "",
+    "Player": "Michael Brantley",
+    "AgeThatYear": "27",
+    "Hits": 200,
+    "Year": 2014,
+    "Bats": "L",
+    "id": 490
+  },
+  {
+    "Rank": "",
+    "Player": "Lou Brock",
+    "AgeThatYear": "25",
+    "Hits": 200,
+    "Year": 1964,
+    "Bats": "L",
+    "id": 491
+  },
+  {
+    "Rank": "",
+    "Player": "Lou Brock",
+    "AgeThatYear": "32",
+    "Hits": 200,
+    "Year": 1971,
+    "Bats": "L",
+    "id": 492
+  },
+  {
+    "Rank": "",
+    "Player": "Dick Burrus",
+    "AgeThatYear": "27",
+    "Hits": 200,
+    "Year": 1925,
+    "Bats": "L",
+    "id": 493
+  },
+  {
+    "Rank": "",
+    "Player": "Robinson Cano",
+    "AgeThatYear": "27",
+    "Hits": 200,
+    "Year": 2010,
+    "Bats": "L",
+    "id": 494
+  },
+  {
+    "Rank": "",
+    "Player": "Rod Carew",
+    "AgeThatYear": "30",
+    "Hits": 200,
+    "Year": 1976,
+    "Bats": "L",
+    "id": 495
+  },
+  {
+    "Rank": "",
+    "Player": "Joe Carter",
+    "AgeThatYear": "26",
+    "Hits": 200,
+    "Year": 1986,
+    "Bats": "R",
+    "id": 496
+  },
+  {
+    "Rank": "",
+    "Player": "Ripper Collins",
+    "AgeThatYear": "30",
+    "Hits": 200,
+    "Year": 1934,
+    "Bats": "B",
+    "id": 497
+  },
+  {
+    "Rank": "",
+    "Player": "Doc Cramer",
+    "AgeThatYear": "34",
+    "Hits": 200,
+    "Year": 1940,
+    "Bats": "L",
+    "id": 498
+  },
+  {
+    "Rank": "",
+    "Player": "Ed Delahanty",
+    "AgeThatYear": "26",
+    "Hits": 200,
+    "Year": 1894,
+    "Bats": "R",
+    "id": 499
+  },
+  {
+    "Rank": "",
+    "Player": "Ed Delahanty",
+    "AgeThatYear": "29",
+    "Hits": 200,
+    "Year": 1897,
+    "Bats": "R",
+    "id": 500
+  },
+  {
+    "Rank": "",
+    "Player": "Elmer Flick",
+    "AgeThatYear": "24",
+    "Hits": 200,
+    "Year": 1900,
+    "Bats": "L",
+    "id": 501
+  },
+  {
+    "Rank": "",
+    "Player": "Curt Flood",
+    "AgeThatYear": "25",
+    "Hits": 200,
+    "Year": 1963,
+    "Bats": "R",
+    "id": 502
+  },
+  {
+    "Rank": "",
+    "Player": "Chick Fullis",
+    "AgeThatYear": "32",
+    "Hits": 200,
+    "Year": 1933,
+    "Bats": "R",
+    "id": 503
+  },
+  {
+    "Rank": "",
+    "Player": "Ralph Garr",
+    "AgeThatYear": "27",
+    "Hits": 200,
+    "Year": 1973,
+    "Bats": "L",
+    "id": 504
+  },
+  {
+    "Rank": "",
+    "Player": "Steve Garvey",
+    "AgeThatYear": "25",
+    "Hits": 200,
+    "Year": 1974,
+    "Bats": "R",
+    "id": 505
+  },
+  {
+    "Rank": "",
+    "Player": "Steve Garvey",
+    "AgeThatYear": "27",
+    "Hits": 200,
+    "Year": 1976,
+    "Bats": "R",
+    "id": 506
+  },
+  {
+    "Rank": "",
+    "Player": "Steve Garvey",
+    "AgeThatYear": "31",
+    "Hits": 200,
+    "Year": 1980,
+    "Bats": "R",
+    "id": 507
+  },
+  {
+    "Rank": "",
+    "Player": "Lou Gehrig",
+    "AgeThatYear": "34",
+    "Hits": 200,
+    "Year": 1937,
+    "Bats": "L",
+    "id": 508
+  },
+  {
+    "Rank": "",
+    "Player": "Hank Greenberg",
+    "AgeThatYear": "26",
+    "Hits": 200,
+    "Year": 1937,
+    "Bats": "R",
+    "id": 509
+  },
+  {
+    "Rank": "",
+    "Player": "Vladimir Guerrero",
+    "AgeThatYear": "31",
+    "Hits": 200,
+    "Year": 2006,
+    "Bats": "R",
+    "id": 510
+  },
+  {
+    "Rank": "",
+    "Player": "Al Kaline",
+    "AgeThatYear": "20",
+    "Hits": 200,
+    "Year": 1955,
+    "Bats": "R",
+    "id": 511
+  },
+  {
+    "Rank": "",
+    "Player": "Chuck Klein",
+    "AgeThatYear": "26",
+    "Hits": 200,
+    "Year": 1931,
+    "Bats": "L",
+    "id": 512
+  },
+  {
+    "Rank": "",
+    "Player": "Barney McCosky",
+    "AgeThatYear": "23",
+    "Hits": 200,
+    "Year": 1940,
+    "Bats": "L",
+    "id": 513
+  },
+  {
+    "Rank": "",
+    "Player": "Stan Musial",
+    "AgeThatYear": "32",
+    "Hits": 200,
+    "Year": 1953,
+    "Bats": "L",
+    "id": 514
+  },
+  {
+    "Rank": "",
+    "Player": "John Olerud",
+    "AgeThatYear": "24",
+    "Hits": 200,
+    "Year": 1993,
+    "Bats": "L",
+    "id": 515
+  },
+  {
+    "Rank": "",
+    "Player": "Placido Polanco",
+    "AgeThatYear": "31",
+    "Hits": 200,
+    "Year": 2007,
+    "Bats": "R",
+    "id": 516
+  },
+  {
+    "Rank": "",
+    "Player": "Rip Radcliff",
+    "AgeThatYear": "34",
+    "Hits": 200,
+    "Year": 1940,
+    "Bats": "L",
+    "id": 517
+  },
+  {
+    "Rank": "",
+    "Player": "Jim Rice",
+    "AgeThatYear": "33",
+    "Hits": 200,
+    "Year": 1986,
+    "Bats": "R",
+    "id": 518
+  },
+  {
+    "Rank": "",
+    "Player": "Phil Rizzuto",
+    "AgeThatYear": "32",
+    "Hits": 200,
+    "Year": 1950,
+    "Bats": "R",
+    "id": 519
+  },
+  {
+    "Rank": "",
+    "Player": "Babe Ruth",
+    "AgeThatYear": "29",
+    "Hits": 200,
+    "Year": 1924,
+    "Bats": "L",
+    "id": 520
+  },
+  {
+    "Rank": "",
+    "Player": "Freddy Sanchez",
+    "AgeThatYear": "28",
+    "Hits": 200,
+    "Year": 2006,
+    "Bats": "R",
+    "id": 521
+  },
+  {
+    "Rank": "",
+    "Player": "Ryne Sandberg",
+    "AgeThatYear": "24",
+    "Hits": 200,
+    "Year": 1984,
+    "Bats": "R",
+    "id": 522
+  },
+  {
+    "Rank": "",
+    "Player": "Red Schoendienst",
+    "AgeThatYear": "34",
+    "Hits": 200,
+    "Year": 1957,
+    "Bats": "B",
+    "id": 523
+  },
+  {
+    "Rank": "",
+    "Player": "Al Simmons",
+    "AgeThatYear": "29",
+    "Hits": 200,
+    "Year": 1931,
+    "Bats": "R",
+    "id": 524
+  },
+  {
+    "Rank": "",
+    "Player": "Al Simmons",
+    "AgeThatYear": "31",
+    "Hits": 200,
+    "Year": 1933,
+    "Bats": "R",
+    "id": 525
+  },
+  {
+    "Rank": "",
+    "Player": "Garry Templeton",
+    "AgeThatYear": "21",
+    "Hits": 200,
+    "Year": 1977,
+    "Bats": "B",
+    "id": 526
+  },
+  {
+    "Rank": "",
+    "Player": "Randy Velarde",
+    "AgeThatYear": "36",
+    "Hits": 200,
+    "Year": 1999,
+    "Bats": "R",
+    "id": 527
+  },
+  {
+    "Rank": "",
+    "Player": "Jose Vidro",
+    "AgeThatYear": "25",
+    "Hits": 200,
+    "Year": 2000,
+    "Bats": "B",
+    "id": 528
+  },
+  {
+    "Rank": "",
+    "Player": "Dick Wakefield",
+    "AgeThatYear": "22",
+    "Hits": 200,
+    "Year": 1943,
+    "Bats": "L",
+    "id": 529
+  },
+  {
+    "Rank": "",
+    "Player": "Paul Waner",
+    "AgeThatYear": "26",
+    "Hits": 200,
+    "Year": 1929,
+    "Bats": "L",
+    "id": 530
+  },
+  {
+    "Rank": "",
+    "Player": "Billy Werber",
+    "AgeThatYear": "26",
+    "Hits": 200,
+    "Year": 1934,
+    "Bats": "R",
+    "id": 531
+  },
+  {
+    "Rank": "",
+    "Player": "Bill White",
+    "AgeThatYear": "29",
+    "Hits": 200,
+    "Year": 1963,
+    "Bats": "L",
+    "id": 532
+  },
+  {
+    "Rank": "",
+    "Player": "Pinky Whitney",
+    "AgeThatYear": "24",
+    "Hits": 200,
+    "Year": 1929,
+    "Bats": "R",
+    "id": 533
+  },
+  {
+    "Rank": "",
+    "Player": "Ross Youngs",
+    "AgeThatYear": "26",
+    "Hits": 200,
+    "Year": 1923,
+    "Bats": "L",
+    "id": 534
+  }
+]
