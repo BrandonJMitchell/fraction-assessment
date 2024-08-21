@@ -1,0 +1,59 @@
+<div class="mat-elevation-z8">
+  <table mat-table matSort [dataSource]="dataSource" matSortActive="rank" matSortDirection="asc">
+
+    <!-- ID Column -->
+    <ng-container matColumnDef="id">
+      <th mat-header-cell *matHeaderCellDef> ID </th>
+      <td mat-cell *matCellDef="let element"> {{element.id}} </td>
+    </ng-container>
+
+    <!-- Player Column -->
+    <ng-container matColumnDef="player">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> Player </th>
+      <td mat-cell *matCellDef="let element">
+
+        <span (click)="openDetail(element)" class="clickable">{{element.player}}</span>
+
+      </td>
+    </ng-container>
+
+    <!-- Rank Column -->
+    <ng-container matColumnDef="rank">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> Rank </th>
+      <td mat-cell *matCellDef="let element"> {{element.rank}} </td>
+    </ng-container>
+
+    <!-- Hits Column -->
+    <ng-container matColumnDef="hits">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> Hits </th>
+      <td mat-cell *matCellDef="let element"> {{element.hits}} </td>
+    </ng-container>
+
+    <!-- Bats Column -->
+    <ng-container matColumnDef="bats">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> Bats </th>
+      <td mat-cell *matCellDef="let element"> {{element.bats}} </td>
+    </ng-container>
+
+    <!-- Year Column -->
+    <ng-container matColumnDef="year">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> Year </th>
+      <td mat-cell *matCellDef="let element"> {{element.year}} </td>
+    </ng-container>
+
+    <!-- Age That Year Column -->
+    <ng-container matColumnDef="ageThatYear">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> Age That Year </th>
+      <td mat-cell *matCellDef="let element"> {{element.ageThatYear}} </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns; sticky: true"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+
+  <mat-paginator [pageSizeOptions]="[10, 20, 30]"
+                 class="sticky-paginator"
+                 showFirstLastButtons
+                 aria-label="Select page of periodic elements">
+  </mat-paginator>
+</div>

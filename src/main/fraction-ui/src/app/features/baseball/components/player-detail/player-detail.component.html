@@ -1,0 +1,19 @@
+<!--<div>-->
+<!--  {{data.details | json}}-->
+<!--</div>-->
+
+<mat-card>
+  <mat-card-header>
+    <div mat-card-avatar>
+      <mat-icon fontIcon="sports_baseball"></mat-icon>
+    </div>
+    <mat-card-title>{{data.details.player}}</mat-card-title>
+    <mat-card-subtitle>Ranked: {{data.details.rank}}</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-content>
+    <p>
+      {{data.details.description}}
+    </p>
+  </mat-card-content>
+
+</mat-card>

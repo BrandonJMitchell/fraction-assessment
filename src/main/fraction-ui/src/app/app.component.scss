@@ -1,0 +1,12 @@
+.content {
+  padding: 16px;
+  height: calc(100vh - 85px);
+  overflow-y: auto;
+}
+
+.sticky-toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+

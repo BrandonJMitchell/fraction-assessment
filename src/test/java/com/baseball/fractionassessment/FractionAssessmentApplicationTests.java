@@ -10,4 +10,8 @@ class FractionAssessmentApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    void test() {
+        System.out.println("hello there");
+    }
 }
